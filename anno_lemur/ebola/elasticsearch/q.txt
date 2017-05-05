@@ -1,2 +1,2 @@
-T=12&Mode=S&N=1&q=phone:8452837457;
-[u'phone:8452837457']
+T=13&Mode=T&N=1&q=text:location: London,Hong Kong,Canary Wharf,London,OWO;
+[u'text:location: London,Hong Kong,Canary Wharf,London,OWO']

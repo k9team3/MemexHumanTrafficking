@@ -1,1 +1,1 @@
-{'query': {'bool': {'should': [], 'must': [{'match': {'phone': u'8452837457'}}]}}, 'size': 500}
+{'query': {'bool': {'should': [], 'must': [{'match': {'raw_content': u'location: London,Hong Kong,Canary Wharf,London,OWO'}}]}}, 'size': 500}

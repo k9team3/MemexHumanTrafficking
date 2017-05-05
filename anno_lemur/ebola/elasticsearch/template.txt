@@ -22,6 +22,6 @@
 		</table>
 		<br>
 	</div>
-	<div align="left" id="imageDiv"><img src="./pictures/1.jpg" style="width:200px;height:200px"><img src="./pictures/2.jpg" style="width:200px;height:200px"><div align="left" id="imageDiv"></div>
+	<div align="left" id="imageDiv"><img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_1/12/0655B114E53AB33F7CA6B03F733E0D1C5D86B518FC88B5378F530B2F0634A9F5URLDELML2ltYWdlcy9lbnRlci5qcGc=" style="width:200px;height:200px"><img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_1/1/F5D53A479E23018D989F9E530DD8A52C3BB9C50F33E46A3D0CFD35B9719F19FCURLDELML2ltYWdlcy9sb2dvLnBuZw==" style="width:200px;height:200px"><img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_7/1/7B431CE7010BDB75D318585D49F2F188DB727B36DFADBC3F0984562312370688URLDELML3Bob3Rvcy84NTAxMjUzOTI3bWEucG5n" style="width:200px;height:200px"><div align="left" id="imageDiv"></div>
 </div>
 
