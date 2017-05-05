@@ -67,7 +67,7 @@ class DBHandler:
 
 
 if __name__ == "__main__":
-    imgDir = "/data2/home/jw1498/image37"
+    imgDir = "/data2/home/cz211/image37"
     database = "MemexImage.db"
     db = DBHandler(database)
     db.createTable("MemexImgTable")
