@@ -1,1 +1,1 @@
-{'query': {'bool': {'should': [], 'must': [{'match': {'raw_content': u'location: London,Hong Kong,Canary Wharf,London,OWO'}}]}}, 'size': 500}
+{'query': {'bool': {'should': [], 'must': [{'match': {'raw_content': 'age'}}, {'range': {'age': {'gte': 27, 'lte': 40}}}]}}, 'size': 500}

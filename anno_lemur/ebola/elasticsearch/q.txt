@@ -1,2 +1,2 @@
-T=13&Mode=T&N=1&q=text:location: London,Hong Kong,Canary Wharf,London,OWO;
-[u'text:location: London,Hong Kong,Canary Wharf,London,OWO']
+T=14&Mode=S&N=1&q=age:2740;
+[u'age:2740']
