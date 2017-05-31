@@ -493,7 +493,12 @@ function gufindmore(e){
     } else {
         mode = "T";
         if (passages.find("p").text().length>0) {
-            q = "text:"+$.trim(passages.find("p").text())+";";
+            q = "text:";
+            var passageArray = [];
+            for (var i=0;i<passages.length;i++) { //filter out some special characters when doing similar text search
+                passageArray.push($.trim(passages.eq(i).find("p").text()).replace(/([\uE000-\uF8FF]|\uD83C[\uDF00-\uDFFF]|\uD83D[\uDC00-\uDDFF])/g, '').replace(/\s\s+/g, ' '));
+            }
+            q += passageArray.join(" ")+";";
         }
     }
     if (q) {
@@ -879,7 +884,7 @@ function getDocno(){
 };
 
 function backToDocument(){
-    window.open(dict["domains"][1].replace("search","elasticsearch") + "?e=" + $(this).text(), 'check',"height=600,width=900,left=" + (screen.width-900)/2 + ",top=" + (screen.height-700)/2);
+    window.open(dict["domains"][1] + "?e=" + $(this).text(), 'check',"height=600,width=900,left=" + (screen.width-900)/2 + ",top=" + (screen.height-700)/2);
 };
 
 function displayList(type){
@@ -889,7 +894,6 @@ function displayList(type){
     else{
         alertdialog(1);
     }
-	
 };
 
 function alertdialog(onum){
@@ -1098,6 +1102,10 @@ $(document).ready(function(){
 
     $("#rdoclist").click(function(){
         displayList('duplicate');
+    });
+
+    $("#mdoclist").click(function(){
+        displayList('bookmark');
     });
     
     $("#viewanno").click(function(){

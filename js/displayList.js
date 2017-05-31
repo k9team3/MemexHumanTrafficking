@@ -1,10 +1,10 @@
-home_prefix = 'http://cs-sys-1.uis.georgetown.edu/~cz211/test/';
+home_prefix = 'http://cs-sys-1.uis.georgetown.edu/~jw1498/test/';
 
 $(document).ready(function() {
     //parent.logCurrentPage(location);
     $("#displayList li").click(function () {
 	todoc = $(this).text();
-    location = home_prefix + domain_url.replace('search','elasticsearch') + "?e=" + todoc;
+    location = home_prefix + domain_url + "?e=" + todoc;
     /* commented for log
 	$.ajax({
 	    method: "post",
@@ -20,7 +20,6 @@ $(document).ready(function() {
 		location = domain_url.replace('search','check') + "?e=" + todoc;
 	    }
 	    });
-    
     */
     });
 });
