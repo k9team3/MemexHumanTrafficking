@@ -97,7 +97,7 @@ list/click  |  time: 2017-04-11 14:37:38 709827  |  # of fields: 4  |  topic_id:
 subtopic/create  |  time: 2017-04-11 14:37:43 037203  |  # of fields: 4  |  topic_id: 670  |  topic_name: asian girls  |  subtopic_id: 346  |  subtopic_name: T4sg0
 
 passage/create  |  time: 2017-04-11 14:37:44 474067  |  # of fields: 7  |  topic_id: 670  |  topic_name: asian girls  |  subtopic_id: 346
-  |  subtopic_name: T4sg0  |  docno: 5261E6CD72D78FAEF57F07B64C45B63369AF3EF3E0B8A5ACCA17FEE748594148  |  passage_id: 12099  |  passage_name:  http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_1/1/F5D53A479E23018D989F9E530DD8A52C3BB9C50F33E46A3D0CFD35B9719F19FCURLDELML2ltYWdlcy8xLnBuZw==
+  |  subtopic_name: T4sg0  |  docno: 5261E6CD72D78FAEF57F07B64C45B63369AF3EF3E0B8A5ACCA17FEE748594148  |  passage_id: 12099  |  passage_name:  http://cs-sys-1.uis.georgetown.edu/~cz211/image37/part_1/part_1_1/1/F5D53A479E23018D989F9E530DD8A52C3BB9C50F33E46A3D0CFD35B9719F19FCURLDELML2ltYWdlcy8xLnBuZw==
 
 passage/grade  |  time: 2017-04-11 14:37:51 221562  |  # of fields: 2  |  passage_id: 12099  |  score: 3
 
@@ -111,7 +111,7 @@ list/click  |  time: 2017-04-11 14:38:36 507449  |  # of fields: 4  |  topic_id:
 subtopic/create  |  time: 2017-04-11 14:38:43 536894  |  # of fields: 4  |  topic_id: 670  |  topic_name: asian girls  |  subtopic_id: 347  |  subtopic_name: EorGF
 
 passage/create  |  time: 2017-04-11 14:39:40 281431  |  # of fields: 7  |  topic_id: 670  |  topic_name: asian girls  |  subtopic_id: 347
-  |  subtopic_name: EorGF  |  docno: A0F051783CD4B74C1180287B9F2CEAA2314322B019BE68729E7DDA24F67E4DCF  |  passage_id: 12100  |  passage_name:  http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_5/part_5_4/1/A0F051783CD4B74C1180287B9F2CEAA2314322B019BE68729E7DDA24F67E4DCFURLDELMaHR0cDovL3d3dy5zd2VldHZpcHMuY29tL2ZpbGVzL2ltYWdlcy9icm9kaS50aHVtYm5haWwuanBn
+  |  subtopic_name: EorGF  |  docno: A0F051783CD4B74C1180287B9F2CEAA2314322B019BE68729E7DDA24F67E4DCF  |  passage_id: 12100  |  passage_name:  http://cs-sys-1.uis.georgetown.edu/~cz211/image37/part_5/part_5_4/1/A0F051783CD4B74C1180287B9F2CEAA2314322B019BE68729E7DDA24F67E4DCFURLDELMaHR0cDovL3d3dy5zd2VldHZpcHMuY29tL2ZpbGVzL2ltYWdlcy9icm9kaS50aHVtYm5haWwuanBn
 
 findmore/pink  |  time: 2017-04-11 14:39:48 157173  |  # of fields: 3  |  topic_id: 670  |  subtopic_id: 347
   |  subtopic_name: EorGF
