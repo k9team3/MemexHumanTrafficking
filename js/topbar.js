@@ -1,4 +1,4 @@
-home_prefix = 'http://cs-sys-1.uis.georgetown.edu/~cz211/test/';
+home_prefix = 'http://cs-sys-1.uis.georgetown.edu/~jw1498/test/';
 
 function getCount(){
     $.ajax({
@@ -265,14 +265,14 @@ function move(opnum){
         alertdialog(1);
         return;
     }
-    if (opnum == 'd' || opnum =='r') {lockscreen();}
+    if (opnum == 'd' || opnum =='r' || opnum == 'm') {lockscreen();}
     $.ajax({
         method: "post",
-        url: "http://cs-sys-1.uis.georgetown.edu/~cz211/test/moveHandler.cgi",
+        url: "http://cs-sys-1.uis.georgetown.edu/~jw1498/test/moveHandler.cgi",
 	    data: {
             topic_id: tid,
             docno: doc_id, // ?? make sure set doc_id ??
-            signal: opnum,
+            signal: opnum
         },
         success: function(response){
             response = response.trim();
@@ -280,22 +280,16 @@ function move(opnum){
                 if (response == "-1"){
                     if (opnum == 'r') alertdialog(11);
                     if (opnum == 'd') alertdialog(13);
+                    if (opnum == 'm') alertdialog(15);
                 }
                 else if (response == "0"){
                     //goback();
                 }
-                else{
+                else {
                     doc_id = response.trim();
                     $("#lemurbox").attr("src", home_prefix+url+'?e='+response)
                 }
-                //    if (opnum == 'd') {
-			    //alertdialog(15);
-		//    } else {
-		//	alertdialog(16);
-		//    }
-                //}
             }
-            // what about 0 response ??
         });
 };
 
@@ -306,7 +300,7 @@ function switchDoc(op) {
     }
     $.ajax({
         method: "post",
-        url: "http://cs-sys-1.uis.georgetown.edu/~cz211/test/switchDocHandler.cgi",
+        url: "http://cs-sys-1.uis.georgetown.edu/~jw1498/test/switchDocHandler.cgi",
 	    data:{
             topic_id: tid,
             docno: doc_id, // ?? make sure set doc_id ??
@@ -361,6 +355,9 @@ function prepareTopbar(){
     });
     $("#docprev").click(function(){
         move('p');
+    });
+    $("#bookmark").click(function(){
+        move('m');
     });
 
     $("#assesshappy").tooltip();
