@@ -1,6 +1,6 @@
 __author__ = 'infosense'
 import sys
-sys.path.append("/data2/home/jw1498/.conda/envs/myvpy/lib/python2.7/site-packages")
+sys.path.append("/data2/home/cz211/.conda/envs/myvpy/lib/python2.7/site-packages")
 sys.path.append("../../../")
 from database import DBHandler
 import numpy as np
