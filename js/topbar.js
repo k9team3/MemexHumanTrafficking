@@ -1,4 +1,4 @@
-home_prefix = 'http://cs-sys-1.uis.georgetown.edu/~jw1498/test/';
+home_prefix = 'http://cs-sys-1.uis.georgetown.edu/~cz211/test/';
 
 function getCount(){
     $.ajax({
@@ -268,7 +268,7 @@ function move(opnum){
     if (opnum == 'd' || opnum =='r' || opnum == 'm') {lockscreen();}
     $.ajax({
         method: "post",
-        url: "http://cs-sys-1.uis.georgetown.edu/~jw1498/test/moveHandler.cgi",
+        url: "http://cs-sys-1.uis.georgetown.edu/~cz211/test/moveHandler.cgi",
 	    data: {
             topic_id: tid,
             docno: doc_id, // ?? make sure set doc_id ??
@@ -300,7 +300,7 @@ function switchDoc(op) {
     }
     $.ajax({
         method: "post",
-        url: "http://cs-sys-1.uis.georgetown.edu/~jw1498/test/switchDocHandler.cgi",
+        url: "http://cs-sys-1.uis.georgetown.edu/~cz211/test/switchDocHandler.cgi",
 	    data:{
             topic_id: tid,
             docno: doc_id, // ?? make sure set doc_id ??

@@ -1,4 +1,4 @@
-home_prefix = 'http://cs-sys-1.uis.georgetown.edu/~jw1498/test/';
+home_prefix = 'http://cs-sys-1.uis.georgetown.edu/~cz211/test/';
 
 $(document).ready(function() {
     //parent.logCurrentPage(location);
