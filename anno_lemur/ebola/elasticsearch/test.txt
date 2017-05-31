@@ -1,1 +1,1 @@
-{'query': {'bool': {'should': [], 'must': [{'match': {'raw_content': 'age'}}, {'range': {'age': {'gte': 27, 'lte': 40}}}]}}, 'size': 500}
+{'query': {'bool': {'should': [], 'must': [{'match': {'raw_content': u'//cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_9/part_9_8/3/FC7945BCEDFE159E68BD3404180114E188FD89122B05228DD47FD56D9C666C09URLDELMaHR0cDovL2ltYWdlczIuYmFja3BhZ2UuY29tL2ltYWdlci91L2xhcmdlLzI4MTk4OTI0OC9kZmZkNDQ0ZTJkMGY3MDk2ZjgwNDYxNTRkMGJiYTE0OS5qcGc'}}]}}, 'size': 500}

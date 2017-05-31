@@ -1,1185 +1,2546 @@
 <DOC>
-<DOCNO>3938D3EAB9C0D2003B32BC4F53F7A7C398B83CAD5E1D61ECFA9C798435B1BE18</DOCNO>
 <HTML>
 <BODY>
-<url>http://elleescortsistanbul.com/models/duo-angelica-valeria-vip</url>
-<name>name: Valeria,Zanna,Nastya,Kristina,Valeria,Angelica,Valeria,Angelica,Irina,Kristina</name>
-<age>age: 19,21,23,24,20,23,27,23,22,27,23,23,22,23,24,25,24,27,23,23,23,21,23,20,23,24,23,19,21,24,25,20,25,23,25,23</age>
-<location>location: Ukraine,BYELORUSSIA,Ukraine,Russia,Russia,BYELORUSSIA,BYELORUSSIA,Russia,Ukraine,Ukraine,Ukraine,BYELORUSSIA,Turkey</location>
-<phone>phone: 400300700</phone>
-<email>email: NULL</email>
-<ethnicity>ethnicity: Ukraine,Ukraine,Ukraine,Ukraine,Russian,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,Russia,Ukraine,Ukraine,Ukraine,Russia,Ukraine,Russia,Ukraine,Russian,Polish,Ukraine,Turkish,Russian,Polish,Turkish,Ukraine,Ukraine,Ukraine,Ukrainian,Turkey,asian</ethnicity>
-<height>height: NULL</height>
-<weight>weight: 121</weight>
-<hair_color>hair_color: red,red</hair_color>
-<eye_color>eye_color: NULL</eye_color>
 <raw_content><!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <meta name="viewport" content="width=1000">
-	<meta name="robots" content="index, follow">
-			
-		
- 		<title>Valeria and Angelica VIP DUO ��� Elleescortsistanbul.com</title>
- 		<meta name="description" content="Valeria and Angelica VIP DUO ��� young escort model on Elleescortsistanbul.com ��� Turkey, Istanbul. Call or SMS for booking/order now!">
-    		<meta name="keywords" content="Valeria and Angelica VIP DUO, Valeria and Angelica VIP DUO elleescortsistanbul.com">
-		<link rel="canonical" href="http://elleescortsistanbul.com/models/duo-angelica-valeria-vip/" />
-    		<meta property="og:title" content="Valeria and Angelica VIP DUO ��� Elleescortsistanbul.com" /> 
-    		<meta property="og:url" content="http://elleescortsistanbul.com/escorts/duo-angelica-valeria-vip/" />
-    		<meta property="og:description" content="Valeria and Angelica VIP DUO ��� young escort model on Elleescortsistanbul.com ��� Turkey, Istanbul. Call or SMS for booking/order now!" />
-		<meta property="og:image" content="http://elleescortsistanbul.com/images/uploads/4Valeria.jpg" />
+<html lang="en" data-scribe-reduced-action-queue="true">
+  <head>
 
-		    		
+    <meta charset="utf-8">
 
-	
-	<link rel="icon" href="/favicon.ico?v=1.3" type="image/x-icon"> 
+    <noscript><meta http-equiv="refresh" content="0; URL=https://mobile.twitter.com/i/nojs_router?path=%2Fdubaihotties%2Fstatus%2F465891662452256768"></noscript>
 
-        <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="/css/normalize.min.css">
-        <link rel="stylesheet" href="/css/libs.css">
-        <link rel="stylesheet" href="/css/main.css">
+  <script id="bouncer_terminate_iframe" nonce="JS2irUdzdavgEOJ+ZUtqnQ==">
+    if (window.top != window) {
+  window.top.postMessage({'bouncer': true, 'event': 'complete'}, '*');
+}
+  </script>
+  <script id="swift_action_queue" nonce="JS2irUdzdavgEOJ+ZUtqnQ==">
+    (function(){function m(a){a||(a=window.event);if(!a)return!1;a.timestamp=(new Date).getTime();!a.target&&a.srcElement&&(a.target=a.srcElement);if(document.documentElement.getAttribute("data-scribe-reduced-action-queue")){var b=a.target;while(b&&b!=document
+.body){if(b.tagName=="A")return;b=b.parentNode}}r("all",s(a));if(!q(a)){r("direct",a);return!0}document.addEventListener||(a=s(a));a.preventDefault=a.stopPropagation=a.stopImmediatePropagation=function(){};if(i){f.push(a);r("captured",a)}else r("ignored",a
+);return!1}function n($){p();for(var a=0,b;b=f[a];a++){var d=$(b.target),e=d.closest("a")[0];if(b.type=="click"&&e){var g=$.data(e,"events"),i=g&&g.click,j=!e.hostname.match(c)||!e.href.match(/#$/);if(!i&&j){window.location=e.href;continue}}d.trigger($.event
+.fix(b))}window.swiftActionQueue.wasFlushed=!0}function o(){for(var a in j){if(a=="all")continue;var b=j[a];for(var c=0;c<b.length;c++)console.log("actionQueue",u(b[c]))}}function p(){clearTimeout(g);for(var a=0,b;b=e[a];a++)document["on"+b]=null}function q
+(a){if(!a.target)return!1;var b=a.target,e=(b.tagName||"").toLowerCase();if(a.metaKey)return!1;if(a.shiftKey&&e=="a")return!1;if(b.hostname&&!b.hostname.match(c))return!1;if(a.type.match(d)&&w(b))return!1;if(e=="label"){var f=b.getAttribute("for");if(f){var g=
+document.getElementById(f);if(g&&v(g))return!1}else for(var i=0,j;j=b.childNodes[i];i++)if(v(j))return!1}return!0}function r(a,b){b.bucket=a;j[a].push(b)}function s(a){var b={};for(var c in a)b[c]=a[c];return b}function t(a){while(a&&a!=document.body){if(a
+.tagName=="A")return a;a=a.parentNode}}function u(b){var c=[];b.bucket&&c.push("["+b.bucket+"]");c.push(b.type);var d=b.target,e=t(d),f="",g,i,j=b.timestamp&&b.timestamp-a;if(b.type==="click"&&e){g=e.className.trim().replace(/\s+/g,".");i=e.id.trim();f=/[^#]$/
+.test(e.href)?" ("+e.href+")":"";d='"'+e.innerText.replace(/\n+/g," ").trim()+'"'}else{g=d.className.trim().replace(/\s+/g,".");i=d.id.trim();d=d.tagName.toLowerCase();b.keyCode&&(d=String.fromCharCode(b.keyCode)+" : "+d)}c.push(d+f+(i&&"#"+i)+(!i&&g?"."+g
+:""));j&&c.push(j);return c.join(" ")}function v(a){var b=(a.tagName||"").toLowerCase();return b=="input"&&a.getAttribute("type")=="checkbox"}function w(a){var b=(a.tagName||"").toLowerCase();return b=="textarea"||b=="input"&&a.getAttribute("type")=="text"||
+a.getAttribute("contenteditable")=="true"}var a=(new Date).getTime(),b=1e4,c=/^([^\.]+\.)*twitter\.com$/,d=/^key/,e=["click","keydown","keypress","keyup"],f=[],g=null,i=!0,j={captured:[],ignored:[],direct:[],all:[]};for(var k=0,l;l=e[k];k++)document["on"+l
+]=m;g=setTimeout(function(){i=!1},b);window.swiftActionQueue={buckets:j,flush:n,logActions:o,wasFlushed:!1}})();
+  </script>
+  <script id="composition_state" nonce="JS2irUdzdavgEOJ+ZUtqnQ==">
+    (function(){function a(a){a.target.setAttribute("data-in-composition","true")}function b(a){a.target.removeAttribute("data-in-composition")}if(document.addEventListener){document.addEventListener("compositionstart",a,!1);document.addEventListener("compositionend"
+,b,!1)}})();
+  </script>
+  <script id="load_js" nonce="JS2irUdzdavgEOJ+ZUtqnQ==">
+    /*! loadJS: load a JS file asynchronously. [c]2014 @scottjehl, Filament Group, Inc. (Based on http://goo.gl/REQGQ by Paul Irish). Licensed MIT */(function(a){var b=function(b,c){"use strict";var d=a.document.getElementsByTagName("script")[0],e=a.document.createElement
+("script");e.src=b;e.async=!0;d.parentNode.insertBefore(e,d);c&&typeof c=="function"&&(e.onload=c);return e};typeof module!="undefined"?module.exports=b:a.loadJS=b})(typeof global!="undefined"?global:this);
+  </script>
 
-        <script src="/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=TRUE"></script>
+    <link rel="stylesheet" href="https://abs.twimg.com/a/1467186141/css/t1/twitter_core.bundle.css">
+  <link rel="stylesheet" href="https://abs.twimg.com/a/1467186141/css/t1/twitter_more_1.bundle.css">
+  <link rel="stylesheet" href="https://abs.twimg.com/a/1467186141/css/t1/twitter_more_2.bundle.css">
 
-<style>
-.header-contacts {margin-top: 2px;}
-.header-contacts span {line-height: 0px;}
-.header-contacts strong {line-height: 0px;}
+    <link rel="dns-prefetch" href="https://pbs.twimg.com">
+    <link rel="dns-prefetch" href="https://t.co">
+      <link rel="preload" href="https://abs.twimg.com/c/swift/en/init.74357f36bcd3cd58e88b095d995832976ac7b24a.js" as="script">
+      <link rel="preload" href="https://abs.twimg.com/c/swift/en/bundle/timeline.f28cd640cf1644d0c25bf6efe28d6ca988197a5f.js" as="script">
+      <link rel="preload" href="https://abs.twimg.com/c/swift/en/bundle/boot.af829a8e66f2ac7bf7fd916acb3a9a352d9fc069.js" as="script">
+
+      <title>Dubai Escorts on Twitter: &quot;Lora &#10;http://t.co/GIpnGMINJ0&#10;+79817898899&#10;Lora is a beautiful and amazing young Russian girl. 1st time in Dubai. For http://t.co/Q14l3z3M1f&quot;</title>
+      <meta name="robots" content="NOODP">
+
+<meta name="msapplication-TileImage" content="//abs.twimg.com/favicons/win8-tile-144.png"/>
+<meta name="msapplication-TileColor" content="#00aced"/>
+
+<link rel="mask-icon" sizes="any" href="https://abs.twimg.com/a/1467186141/img/t1/favicon.svg" color="#55acee">
+
+<link href="//abs.twimg.com/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+<link rel="manifest" href="/manifest.json">
+
+  <meta name="swift-page-name" id="swift-page-name" content="permalink">
+
+    <link rel="canonical" href="https://twitter.com/dubaihotties/status/465891662452256768">
+  <link rel="alternate" hreflang="x-default" href="https://twitter.com/dubaihotties/status/465891662452256768">
+  <link rel="alternate" hreflang="fr" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=fr"><link rel="alternate" hreflang="en" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=en"><link rel="alternate" hreflang="ar" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=ar"><link rel="alternate" hreflang="ja" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=ja"><link rel="alternate" hreflang="es" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=es"><link rel="alternate" hreflang="de" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=de"><link rel="alternate" hreflang="it" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=it"><link rel="alternate" hreflang="id" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=id"><link rel="alternate" hreflang="pt" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=pt"><link rel="alternate" hreflang="ko" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=ko"><link rel="alternate" hreflang="tr" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=tr"><link rel="alternate" hreflang="ru" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=ru"><link rel="alternate" hreflang="nl" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=nl"><link rel="alternate" hreflang="fil" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=fil"><link rel="alternate" hreflang="ms" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=ms"><link rel="alternate" hreflang="zh-tw" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=zh-tw"><link rel="alternate" hreflang="zh-cn" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=zh-cn"><link rel="alternate" hreflang="hi" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=hi"><link rel="alternate" hreflang="no" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=no"><link rel="alternate" hreflang="sv" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=sv"><link rel="alternate" hreflang="fi" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=fi"><link rel="alternate" hreflang="da" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=da"><link rel="alternate" hreflang="pl" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=pl"><link rel="alternate" hreflang="hu" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=hu"><link rel="alternate" hreflang="fa" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=fa"><link rel="alternate" hreflang="he" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=he"><link rel="alternate" hreflang="ur" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=ur"><link rel="alternate" hreflang="th" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=th"><link rel="alternate" hreflang="uk" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=uk"><link rel="alternate" hreflang="ca" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=ca"><link rel="alternate" hreflang="ga" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=ga"><link rel="alternate" hreflang="el" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=el"><link rel="alternate" hreflang="eu" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=eu"><link rel="alternate" hreflang="cs" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=cs"><link rel="alternate" hreflang="gl" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=gl"><link rel="alternate" hreflang="ro" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=ro"><link rel="alternate" hreflang="hr" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=hr"><link rel="alternate" hreflang="en-gb" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=en-gb"><link rel="alternate" hreflang="vi" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=vi"><link rel="alternate" hreflang="bn" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=bn"><link rel="alternate" hreflang="bg" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=bg"><link rel="alternate" hreflang="sr" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=sr"><link rel="alternate" hreflang="sk" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=sk"><link rel="alternate" hreflang="gu" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=gu"><link rel="alternate" hreflang="mr" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=mr"><link rel="alternate" hreflang="ta" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=ta"><link rel="alternate" hreflang="kn" href="https://twitter.com/dubaihotties/status/465891662452256768?lang=kn">
+
+    <link rel="alternate" type="application/json+oembed" href="https://publish.twitter.com/oembed?url=https://twitter.com/DubaiHotties/status/465891662452256768" title="Dubai Escorts on Twitter: &quot;Lora &#10;http://t.co/GIpnGMINJ0&#10;+79817898899&#10;Lora is a beautiful and amazing young Russian girl. 1st time in Dubai. For http://t.co/Q14l3z3M1f&quot;">
+
+  <link rel="alternate" media="handheld, only screen and (max-width: 640px)" href="https://mobile.twitter.com/dubaihotties/status/465891662452256768">
+
+      <link rel="alternate" href="android-app://com.twitter.android/twitter/tweet?status_id=465891662452256768&amp;ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E465891662452256768">
+
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Twitter">
+
+    <link id="async-css-placeholder">
+
+        <meta  property="og:type" content="article">
+        <meta  property="og:url" content="https://twitter.com/DubaiHotties/status/465891662452256768">
+        <meta  property="og:title" content="Dubai Escorts on Twitter">
+        <meta  property="og:image" content="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_8/5/C0B66E5772D0FF3624C8B8ADB25BFEA35C7C42D67EE78E11295BBC506D6452ECURLDELMaHR0cHM6Ly9wYnMudHdpbWcuY29tL21lZGlhL0JuY3RfNXhJVUFBNEFfZi5qcGc=:large">
+        <meta  property="og:image:user_generated" content="true">
+        <meta  property="og:description" content="���Lora &#10;http://t.co/GIpnGMINJ0&#10;+79817898899&#10;Lora is a beautiful and amazing young Russian girl. 1st time in Dubai. For���">
+        <meta  property="og:site_name" content="Twitter">
+        <meta  property="fb:app_id" content="2231777543">
+      <input type="hidden" id="init-data" class="json-data" value="{&quot;keyboardShortcuts&quot;:[{&quot;name&quot;:&quot;Actions&quot;,&quot;description&quot;:&quot;Shortcuts for common actions.&quot;,&quot;shortcuts&quot;:[{&quot;keys&quot;:[&quot;Enter&quot;],&quot;description&quot;:&quot;Open Tweet details&quot;},{&quot;keys&quot;:[&quot;o&quot;],&quot;description&quot;:&quot;Expand photo&quot;},{&quot;keys&quot;:[&quot;\/&quot;],&quot;description&quot;:&quot;Search&quot;}]},{&quot;name&quot;:&quot;Navigation&quot;,&quot;description&quot;:&quot;Shortcuts for navigating between items in timelines.&quot;,&quot;shortcuts&quot;:[{&quot;keys&quot;:[&quot;?&quot;],&quot;description&quot;:&quot;This menu&quot;},{&quot;keys&quot;:[&quot;j&quot;],&quot;description&quot;:&quot;Next Tweet&quot;},{&quot;keys&quot;:[&quot;k&quot;],&quot;description&quot;:&quot;Previous Tweet&quot;},{&quot;keys&quot;:[&quot;Space&quot;],&quot;description&quot;:&quot;Page down&quot;},{&quot;keys&quot;:[&quot;.&quot;],&quot;description&quot;:&quot;Load new Tweets&quot;}]},{&quot;name&quot;:&quot;Timelines&quot;,&quot;description&quot;:&quot;Shortcuts for navigating to different timelines or pages.&quot;,&quot;shortcuts&quot;:[{&quot;keys&quot;:[&quot;g&quot;,&quot;u&quot;],&quot;description&quot;:&quot;Go to user\u2026&quot;}]}],&quot;jsInitDelay&quot;:0,&quot;hasKenburnEffectOnSingleImage&quot;:false,&quot;composeIgnoreAttachmentText&quot;:false,&quot;baseFoucClass&quot;:&quot;swift-loading&quot;,&quot;bodyFoucClassNames&quot;:&quot;swift-loading&quot;,&quot;macawSwift&quot;:true,&quot;assetsBasePath&quot;:&quot;https:\/\/abs.twimg.com\/a\/1467186141\/&quot;,&quot;assetVersionKey&quot;:&quot;c4db96&quot;,&quot;environment&quot;:&quot;production&quot;,&quot;formAuthenticityToken&quot;:&quot;bf22c63b6fbbdaac52796f677afcad88be230ce2&quot;,&quot;loggedIn&quot;:false,&quot;softUserLoggedIn&quot;:false,&quot;screenName&quot;:null,&quot;fullName&quot;:null,&quot;userId&quot;:null,&quot;guestId&quot;:&quot;146729790407070489&quot;,&quot;allowAdsPersonalization&quot;:true,&quot;scribeBufferSize&quot;:3,&quot;pageName&quot;:&quot;permalink&quot;,&quot;sectionName&quot;:&quot;permalink&quot;,&quot;scribeParameters&quot;:{},&quot;recaptchaApiUrl&quot;:&quot;https:\/\/www.google.com\/recaptcha\/api\/js\/recaptcha_ajax.js&quot;,&quot;internalReferer&quot;:null,&quot;geoEnabled&quot;:false,&quot;typeaheadData&quot;:{&quot;accounts&quot;:{&quot;enabled&quot;:true,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:true,&quot;limit&quot;:6},&quot;trendLocations&quot;:{&quot;enabled&quot;:true},&quot;dmConversations&quot;:{&quot;enabled&quot;:false},&quot;savedSearches&quot;:{&quot;enabled&quot;:false,&quot;items&quot;:[]},&quot;dmAccounts&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:false,&quot;onlyDMable&quot;:true},&quot;mediaTagAccounts&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:true,&quot;remoteQueriesEnabled&quot;:false,&quot;onlyShowUsersWithCanMediaTag&quot;:false,&quot;currentUserId&quot;:-1},&quot;selectedUsers&quot;:{&quot;enabled&quot;:false},&quot;prefillUsers&quot;:{&quot;enabled&quot;:false},&quot;topics&quot;:{&quot;enabled&quot;:true,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:true,&quot;prefetchLimit&quot;:500,&quot;limit&quot;:4},&quot;concierge&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:false,&quot;prefetchLimit&quot;:500,&quot;limit&quot;:6},&quot;recentSearches&quot;:{&quot;enabled&quot;:false},&quot;hashtags&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:true,&quot;prefetchLimit&quot;:500},&quot;useIndexedDB&quot;:false,&quot;showSearchAccountSocialContext&quot;:false,&quot;showDebugInfo&quot;:false,&quot;useThrottle&quot;:true,&quot;accountsOnTop&quot;:false,&quot;remoteDebounceInterval&quot;:300,&quot;remoteThrottleInterval&quot;:300,&quot;tweetContextEnabled&quot;:false,&quot;fullNameMatchingInCompose&quot;:true,&quot;topicsWithFiltersEnabled&quot;:false},&quot;dm&quot;:{&quot;notifications&quot;:false,&quot;usePushForNotifications&quot;:false,&quot;participant_max&quot;:50,&quot;video_gif_render&quot;:true,&quot;video_gif_upload&quot;:true,&quot;twitter_video_player&quot;:true,&quot;typing_indicators_publish&quot;:false,&quot;poll_options&quot;:{&quot;foreground_poll_interval&quot;:3000,&quot;burst_poll_interval&quot;:3000,&quot;burst_poll_duration&quot;:300000,&quot;max_poll_interval&quot;:60000}},&quot;whitelistedVideoUser&quot;:false,&quot;autoplayDisabled&quot;:false,&quot;pushStatePageLimit&quot;:500000,&quot;routes&quot;:{&quot;profile&quot;:&quot;\/&quot;},&quot;pushState&quot;:true,&quot;viewContainer&quot;:&quot;#page-container&quot;,&quot;dragAndDropPhotoUpload&quot;:true,&quot;href&quot;:&quot;\/dubaihotties\/status\/465891662452256768&quot;,&quot;searchPathWithQuery&quot;:&quot;\/search?q=query&amp;src=typd&quot;,&quot;timelineCardsGallery&quot;:true,&quot;composeAltText&quot;:false,&quot;deciders&quot;:{&quot;bulkUnfollowEnabled&quot;:true,&quot;custom_timeline_curation&quot;:false,&quot;moment_maker_enabled&quot;:false,&quot;disable_profile_popup&quot;:false,&quot;native_notifications&quot;:true,&quot;dm_polling_frequency_in_seconds&quot;:3000,&quot;enable_media_tag_prefetch&quot;:true,&quot;foundMediaTrendingEnabled&quot;:false,&quot;enableMacawNymizerConversionLanding&quot;:false,&quot;hqImageUploads&quot;:false,&quot;largeHeaderImageUpload&quot;:true,&quot;live_pipeline_consume&quot;:false,&quot;mqImageUploads&quot;:false,&quot;partnerIdSyncEnabled&quot;:true,&quot;sruMediaCategory&quot;:true,&quot;photoSruGifLimitMb&quot;:5,&quot;promoted_video_logging_enabled&quot;:true,&quot;pushState&quot;:true,&quot;scribeReducedActionQueue&quot;:true,&quot;smartInfiniteScroll&quot;:false,&quot;useHtml5Webcam&quot;:true,&quot;hideLeadingMentions&quot;:false,&quot;web_perftown_stats&quot;:true,&quot;web_perftown_ttft&quot;:true,&quot;web_sru_stats&quot;:false,&quot;web_upload_direct&quot;:true,&quot;web_upload_video&quot;:true,&quot;web_upload_video_advanced&quot;:false,&quot;upload_video_size&quot;:500,&quot;defaultVideoDuration&quot;:45,&quot;maxVideoDuration&quot;:140,&quot;internationalShippingEnabled&quot;:true,&quot;useV2EndpointsEnabled&quot;:true,&quot;useVmapVariants&quot;:false,&quot;autoplayPreviewPreroll&quot;:true,&quot;moments_lohp_enabled&quot;:true,&quot;momentsExperienceEnabled&quot;:true,&quot;enableNativePush&quot;:false,&quot;installNativePush&quot;:false,&quot;autoSubscribeNativePush&quot;:false,&quot;stickersInteractivity&quot;:true,&quot;stickersInteractivityDuringLoading&quot;:true,&quot;stickersExperience&quot;:true,&quot;dynamic_video_ads_include_long_videos&quot;:true,&quot;push_state_size&quot;:1000,&quot;canBeSoftUser&quot;:false,&quot;isInSoftExperiment&quot;:false},&quot;experiments&quot;:{},&quot;toasts_dm&quot;:false,&quot;toasts_spoonbill&quot;:false,&quot;toasts_timeline&quot;:false,&quot;toasts_dm_poll_scale&quot;:60,&quot;defaultNotificationIcon&quot;:&quot;https:\/\/abs.twimg.com\/a\/1467186141\/img\/t1\/mobile\/wp7_app_icon.png&quot;,&quot;uploadDomain&quot;:&quot;upload.twitter.com&quot;,&quot;promptbirdData&quot;:{&quot;promptbirdEnabled&quot;:false,&quot;immediateTriggers&quot;:[&quot;PullToRefresh&quot;,&quot;Navigate&quot;],&quot;format&quot;:null},&quot;passwordResetAdvancedLoginForm&quot;:true,&quot;skipAutoSignupDialog&quot;:true,&quot;shouldReplaceSignupWithLogin&quot;:false,&quot;hashflagBaseUrl&quot;:&quot;https:\/\/abs.twimg.com\/hashflags\/&quot;,&quot;activeHashflags&quot;:{&quot;��������������&quot;:&quot;AlMosafer\/travel.png&quot;,&quot;��������_����������&quot;:&quot;AlMosafer\/travel.png&quot;,&quot;m��moirededory&quot;:&quot;FindingDory\/FindingDory.png&quot;,&quot;����_������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;bacphysique&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;togetherstronger&quot;:&quot;EurosFootball2016\/Wales.png&quot;,&quot;ger&quot;:&quot;EurosFootball2016\/Germany.png&quot;,&quot;meinestimme&quot;:&quot;USElections2016\/ivoted.png&quot;,&quot;���������������&quot;:&quot;Ramadan_Emoji\/Ramadan_Emoji.png&quot;,&quot;bacst2s&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;������������&quot;:&quot;USElections2016\/ivoted.png&quot;,&quot;immerwiederoesterreich&quot;:&quot;EurosFootball2016\/Austria.png&quot;,&quot;������������&quot;:&quot;JSBCI\/JSBCI_emoji.png&quot;,&quot;copaamerica&quot;:&quot;CopaAmericaCentenario\/CopaAmericaCentenario.png&quot;,&quot;bacpro&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;��������_����������_����������_����������&quot;:&quot;AlMosafer\/travel.png&quot;,&quot;queensyoungleaders&quot;:&quot;Queenat90\/Queenat90.png&quot;,&quot;bacstmg&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;������������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;periscope&quot;:&quot;Periscope\/Periscope.png&quot;,&quot;cblol&quot;:&quot;CBLoL\/CBLoL.png&quot;,&quot;jederfuerjeden&quot;:&quot;EurosFootball2016\/Germany.png&quot;,&quot;yoenunvw&quot;:&quot;Volkswagen\/YoEnUnVW.png&quot;,&quot;lovetwitter&quot;:&quot;LoveTwitter\/LoveTwitter.png&quot;,&quot;������������_����������������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;ifoodnomeng��o&quot;:&quot;iFoodBrazil\/flamengo.png&quot;,&quot;badisbred&quot;:&quot;AnimalKingdom_Deliver\/BadisBred.png&quot;,&quot;������������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;vidcon2016&quot;:&quot;vicon2016\/Vicon2016.png&quot;,&quot;ausvotes&quot;:&quot;AusVotes\/AusVotes.png&quot;,&quot;��������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;admis&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;ifoodsalva&quot;:&quot;iFood\/emoji_ifood_v2_final.png&quot;,&quot;����������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;cervantes400&quot;:&quot;CervantesEmoji\/cervantes-emoji.png&quot;,&quot;hakkebakke&quot;:&quot;VodafoneFiles\/FinalEmoji.png&quot;,&quot;gameofthrones&quot;:&quot;GameofThrones\/GameofThrones.png&quot;,&quot;����������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;hovotato&quot;:&quot;USElections2016\/ivoted.png&quot;,&quot;kebersamaanramadhan&quot;:&quot;Ramadan_Emoji\/Ramadan_Emoji.png&quot;,&quot;��������������������������(��)&quot;:&quot;USElections2016\/ivoted.png&quot;,&quot;bukapuasa&quot;:&quot;Ramadan_Emoji\/Ramadan_Emoji.png&quot;,&quot;sienteelsabor&quot;:&quot;CocaCola\/SienteElSabor.png&quot;,&quot;������_������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;bacfran��ais&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;besuper&quot;:&quot;VodafoneFiles\/FinalEmoji.png&quot;,&quot;gawa&quot;:&quot;EurosFootball2016\/NorthernIreland.png&quot;,&quot;teamdelta&quot;:&quot;VoiceAU\/TeamDelta.png&quot;,&quot;sahur&quot;:&quot;Ramadan_Emoji\/Ramadan_Emoji.png&quot;,&quot;hun&quot;:&quot;EurosFootball2016\/Hungary.png&quot;,&quot;bacsti2d&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;wimbledon&quot;:&quot;Wimbledon2016\/Wimbledon.png&quot;,&quot;buscandoadory&quot;:&quot;FindingDory\/FindingDory.png&quot;,&quot;vivelamannschaft&quot;:&quot;Mercedes\/Mercedes.png&quot;,&quot;lasonrisadeunpa��s&quot;:&quot;SpainGeneral\/unidos_podemos-emoji.png&quot;,&quot;bacanglais&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;1of11million&quot;:&quot;EurosFootball2016\/Portugal.png&quot;,&quot;jaivot��&quot;:&quot;USElections2016\/ivoted.png&quot;,&quot;golive&quot;:&quot;goLIVE2016\/goLIVE.png&quot;,&quot;26j&quot;:&quot;SpainElection\/SpainElection.png&quot;,&quot;����������_��������&quot;:&quot;Ramadan_Emoji\/Ramadan_Emoji.png&quot;,&quot;������������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;veep&quot;:&quot;VEEP\/VEEP.png&quot;,&quot;26medidas26j&quot;:&quot;SpainGeneral\/PartidoPopular.png&quot;,&quot;allin216&quot;:&quot;NBAFinals2016\/ALLin216.png&quot;,&quot;everycharactermatters&quot;:&quot;EveryCharacterMatters\/EveryCharacterMatters.png&quot;,&quot;������������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;bachistoiregeographie&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;whosstillstanding&quot;:&quot;JSBCI\/JSBCI_emoji.png&quot;,&quot;������������&quot;:&quot;USElections2016\/ivoted.png&quot;,&quot;����������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;������������_������������������_��������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;euro2016&quot;:&quot;EurosFootball2016\/trophy.png&quot;,&quot;partidopopular&quot;:&quot;SpainGeneral\/PartidoPopular.png&quot;,&quot;bacsvt&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;twitterstaryarasky&quot;:&quot;TwitterstarYarasky\/TwitterstarYarasky.png&quot;,&quot;momentodory&quot;:&quot;FindingDory\/FindingDory.png&quot;,&quot;dubnation&quot;:&quot;NBAFinals2016\/DubNation.png&quot;,&quot;��������������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;fazerdiferente&quot;:&quot;TIM\/emoji_tim_final_3.png&quot;,&quot;tousenfrance&quot;:&quot;EurosFootball2016\/Belgium.png&quot;,&quot;puasa&quot;:&quot;Ramadan_Emoji\/Ramadan_Emoji.png&quot;,&quot;400cervantes&quot;:&quot;CervantesEmoji\/cervantes-emoji.png&quot;,&quot;������������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;bacsthr&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;vidcon&quot;:&quot;vicon2016\/Vicon2016.png&quot;,&quot;jaimonbac&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;������������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;estiempode&quot;:&quot;att-emoji2-assets\/attemoji2.png&quot;,&quot;isl&quot;:&quot;EurosFootball2016\/Iceland.png&quot;,&quot;����������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;bizbittidemedenbitmez&quot;:&quot;EurosFootball2016\/Turkey.png&quot;,&quot;ceskarepre&quot;:&quot;EurosFootball2016\/CzechRepublic.png&quot;,&quot;lemondededory&quot;:&quot;FindingDory\/FindingDory.png&quot;,&quot;sui&quot;:&quot;EurosFootball2016\/Switzerland.png&quot;,&quot;ideasparaespa��a&quot;:&quot;SpainElection\/SpainElection.png&quot;,&quot;����������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;svk&quot;:&quot;EurosFootball2016\/Slovakia.png&quot;,&quot;lagentedels��&quot;:&quot;SpainGeneral\/PSOE.png&quot;,&quot;����������_��������������_����������������&quot;:&quot;AlMosafer\/travel.png&quot;,&quot;bactmd&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;���������������&quot;:&quot;USElections2016\/ivoted.png&quot;,&quot;allezlasuisse&quot;:&quot;EurosFootball2016\/Switzerland.png&quot;,&quot;timchef&quot;:&quot;TIMChef\/emoji_masterchef.png&quot;,&quot;rumoaorio&quot;:&quot;100Days\/100Days.png&quot;,&quot;����������������������&quot;:&quot;EurosFootball2016\/Russia.png&quot;,&quot;nir&quot;:&quot;EurosFootball2016\/NorthernIreland.png&quot;,&quot;aut&quot;:&quot;EurosFootball2016\/Austria.png&quot;,&quot;������������������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;bachistoire&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;csakegyutt&quot;:&quot;EurosFootball2016\/Hungary.png&quot;,&quot;����������_��������������&quot;:&quot;AlMosafer\/travel.png&quot;,&quot;bacphilo&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;bacphysiquechimie&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;��������������������&quot;:&quot;EurosFootball2016\/Ukraine.png&quot;,&quot;eng&quot;:&quot;EurosFootball2016\/England.png&quot;,&quot;������������86&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;chamaolimpica&quot;:&quot;OlympicTorch_Emoji\/OlympicTorch.png&quot;,&quot;espa��avota&quot;:&quot;SpainElection\/SpainElection.png&quot;,&quot;ivoted&quot;:&quot;USElections2016\/ivoted.png&quot;,&quot;teamronan&quot;:&quot;VoiceAU\/TeamRonan.png&quot;,&quot;rus&quot;:&quot;EurosFootball2016\/Russia.png&quot;,&quot;yellowcard&quot;:&quot;CopaEmoji\/copa_emoji.png&quot;,&quot;olympicflame&quot;:&quot;OlympicTorch_Emoji\/OlympicTorch.png&quot;,&quot;iameuro&quot;:&quot;UnibetAustralia\/soccer.png&quot;,&quot;ifoodnomengao&quot;:&quot;iFoodBrazil\/flamengo.png&quot;,&quot;happybirthdayyourmajesty&quot;:&quot;Queenat90\/Queenat90.png&quot;,&quot;alb&quot;:&quot;EurosFootball2016\/Albania.png&quot;,&quot;thequeue&quot;:&quot;Wimbledon2016\/TheQueue.png&quot;,&quot;politimoji&quot;:&quot;SpainElection\/SpainElection.png&quot;,&quot;rou&quot;:&quot;EurosFootball2016\/Romania.png&quot;,&quot;desapega&quot;:&quot;olx\/emoji_olx_final.png&quot;,&quot;findingdory&quot;:&quot;FindingDory\/FindingDory.png&quot;,&quot;bacallemand&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;ramazan&quot;:&quot;Ramadan_Emoji\/Ramadan_Emoji.png&quot;,&quot;����������_����������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;teamjessiej&quot;:&quot;VoiceAU\/TeamJessieJ.png&quot;,&quot;bumotoako&quot;:&quot;USElections2016\/ivoted.png&quot;,&quot;����������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;twittersparkle&quot;:&quot;TwitterSparkle\/TwitterSparkle.png&quot;,&quot;justkeepswimming&quot;:&quot;FindingDory\/FindingDory.png&quot;,&quot;ita&quot;:&quot;EurosFootball2016\/Italy.png&quot;,&quot;vivoazzurro&quot;:&quot;EurosFootball2016\/Italy.png&quot;,&quot;������������������_70&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;uns��porelcambio&quot;:&quot;SpainGeneral\/PSOE.png&quot;,&quot;resultatsbac&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;ramadan&quot;:&quot;Ramadan_Emoji\/Ramadan_Emoji.png&quot;,&quot;bacitalien&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;��������_��������������_����������_����������&quot;:&quot;AlMosafer\/travel.png&quot;,&quot;origin&quot;:&quot;StateOfOrigin\/Origin.png&quot;,&quot;bacfrancais&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;��������������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;afavor&quot;:&quot;SpainGeneral\/PartidoPopular.png&quot;,&quot;������������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;psoe&quot;:&quot;SpainGeneral\/PSOE.png&quot;,&quot;bachotellerie&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;thehill&quot;:&quot;Wimbledon2016\/TheHill.png&quot;,&quot;hairomania&quot;:&quot;EurosFootball2016\/Romania.png&quot;,&quot;admise&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;yarasky&quot;:&quot;TwitterstarYarasky\/TwitterstarYarasky.png&quot;,&quot;yovote&quot;:&quot;USElections2016\/ivoted.png&quot;,&quot;qlder&quot;:&quot;StateOfOrigin\/QLDER.png&quot;,&quot;������������������_����������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;energia&quot;:&quot;JBalvinNew\/JBalvinNew.png&quot;,&quot;������_��������������&quot;:&quot;AlMosafer\/travel.png&quot;,&quot;rumboario&quot;:&quot;100Days\/100Days.png&quot;,&quot;queenat90&quot;:&quot;Queenat90\/Queenat90.png&quot;,&quot;vidcon16&quot;:&quot;vicon2016\/Vicon2016.png&quot;,&quot;ciudadanos&quot;:&quot;SpainGeneral\/Ciudadanos.png&quot;,&quot;������������������_������_����&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;eleccionesgenerales&quot;:&quot;SpainElection\/SpainElection.png&quot;,&quot;fudgestripes&quot;:&quot;keebler\/keebler-fudgestripes.png&quot;,&quot;overdadeirosabor&quot;:&quot;Hellmanns\/emoji_hellmans.png&quot;,&quot;baces&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;����������&quot;:&quot;Ramadan_Emoji\/Ramadan_Emoji.png&quot;,&quot;bacmaths&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;��������_����������������&quot;:&quot;AlMosafer\/travel.png&quot;,&quot;������������������&quot;:&quot;NHKMorningDrama\/NHKMorningDrama.png&quot;,&quot;redcard&quot;:&quot;CopaEmoji\/copa_emoji.png&quot;,&quot;yovot��&quot;:&quot;USElections2016\/ivoted.png&quot;,&quot;ciudadanos26j&quot;:&quot;SpainGeneral\/Ciudadanos.png&quot;,&quot;togetherforengland&quot;:&quot;EurosFootball2016\/England.png&quot;,&quot;����czynaspolska&quot;:&quot;EurosFootball2016\/Poland.png&quot;,&quot;bulanpuasa&quot;:&quot;Ramadan_Emoji\/Ramadan_Emoji.png&quot;,&quot;bach��tellerie&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;bacs&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;bacstav&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;nowyoucan&quot;:&quot;SkyNow\/SKYNowYouCan.png&quot;,&quot;trovadory&quot;:&quot;FindingDory\/FindingDory.png&quot;,&quot;unidospodemos&quot;:&quot;SpainGeneral\/unidos_podemos-emoji.png&quot;,&quot;tur&quot;:&quot;EurosFootball2016\/Turkey.png&quot;,&quot;roadtorio&quot;:&quot;100Days\/100Days.png&quot;,&quot;bacses&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;bacstl&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;wal&quot;:&quot;EurosFootball2016\/Wales.png&quot;,&quot;copacocacola&quot;:&quot;ShareACopa_Final\/ShareACopa.png&quot;,&quot;bacespagnol&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;������������������_��������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;bel&quot;:&quot;EurosFootball2016\/Belgium.png&quot;,&quot;bacstd2a&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;patriaerestu&quot;:&quot;SpainGeneral\/unidos_podemos-emoji.png&quot;,&quot;fiersdetrebleus&quot;:&quot;EurosFootball2016\/France.png&quot;,&quot;cze&quot;:&quot;EurosFootball2016\/CzechRepublic.png&quot;,&quot;pol&quot;:&quot;EurosFootball2016\/Poland.png&quot;,&quot;r��sultatsbac&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;budiponosan&quot;:&quot;EurosFootball2016\/Croatia.png&quot;,&quot;fandimespolu&quot;:&quot;EurosFootball2016\/Slovakia.png&quot;,&quot;thisbudsforyou&quot;:&quot;Bud_Emoji\/Bud.png&quot;,&quot;icaucused&quot;:&quot;USElections2016\/ivoted.png&quot;,&quot;ukr&quot;:&quot;EurosFootball2016\/Ukraine.png&quot;,&quot;����������_����������&quot;:&quot;Ramadan_Emoji\/Ramadan_Emoji.png&quot;,&quot;ca2016&quot;:&quot;CopaAmericaCentenario\/CopaAmericaCentenario.png&quot;,&quot;������������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;esp&quot;:&quot;EurosFootball2016\/Spain.png&quot;,&quot;makethefuture&quot;:&quot;Shell_Emoji\/ShellLightbulb.png&quot;,&quot;cambioamejor&quot;:&quot;SpainGeneral\/Ciudadanos.png&quot;,&quot;cro&quot;:&quot;EurosFootball2016\/Croatia.png&quot;,&quot;������������_��������&quot;:&quot;ToyotaALJ-Final_160421\/thumbsup2.png&quot;,&quot;irl&quot;:&quot;EurosFootball2016\/ROIreland.png&quot;,&quot;vamosespa��a&quot;:&quot;EurosFootball2016\/Spain.png&quot;,&quot;bacl&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;nbafinals&quot;:&quot;NBAFinals2016\/NBAFinals.png&quot;,&quot;������������������&quot;:&quot;JapanUpperHouseElection\/JapanUpperHouseElection.png&quot;,&quot;videonow&quot;:&quot;vicon2016\/Vicon2016.png&quot;,&quot;uptheblues&quot;:&quot;StateOfOrigin\/UpTheBlues.png&quot;,&quot;sharkweek&quot;:&quot;SharkWeekEmoji\/SharkWeek_Original.png&quot;,&quot;por&quot;:&quot;EurosFootball2016\/Portugal.png&quot;,&quot;teammadden&quot;:&quot;VoiceAU\/TeamMadden.png&quot;,&quot;swe&quot;:&quot;EurosFootball2016\/Sweden.png&quot;,&quot;bac2016&quot;:&quot;baccalaureat_emoji\/baccalaureat_emoji.png&quot;,&quot;fra&quot;:&quot;EurosFootball2016\/France.png&quot;,&quot;ramadhan&quot;:&quot;Ramadan_Emoji\/Ramadan_Emoji.png&quot;,&quot;coybig&quot;:&quot;EurosFootball2016\/ROIreland.png&quot;},&quot;tweetId&quot;:&quot;465891662452256768&quot;,&quot;profile_id&quot;:151010192,&quot;endpoint&quot;:&quot;\/i\/DubaiHotties\/conversation\/465891662452256768&quot;,&quot;overlayCapable&quot;:false,&quot;finagleTraceId&quot;:&quot;00124006007e065d&quot;,&quot;isThreaded&quot;:true,&quot;inOverlay&quot;:true,&quot;trendsCacheKey&quot;:null,&quot;decider_personalized_trends&quot;:false,&quot;trendsEndpoint&quot;:&quot;\/i\/trends&quot;,&quot;initialState&quot;:{&quot;title&quot;:&quot;Dubai Escorts on Twitter: \&quot;Lora \nhttp:\/\/t.co\/GIpnGMINJ0\n+79817898899\nLora is a beautiful and amazing young Russian girl. 1st time in Dubai. For http:\/\/t.co\/Q14l3z3M1f\&quot;&quot;,&quot;section&quot;:null,&quot;module&quot;:&quot;app\/pages\/permalink&quot;,&quot;cache_ttl&quot;:300,&quot;body_class_names&quot;:&quot;three-col logged-out user-style-DubaiHotties ms-windows PermalinkPage&quot;,&quot;doc_class_names&quot;:&quot;route-permalink&quot;,&quot;route_name&quot;:&quot;permalink&quot;,&quot;page_container_class_names&quot;:&quot;AppContent wrapper wrapper-permalink&quot;,&quot;ttft_navigation&quot;:false}}">
+
+    <input type="hidden" class="swift-boot-module" value="app/pages/permalink">
+  <input type="hidden" id="swift-module-path" value="https://abs.twimg.com/c/swift/en">
+
+    <script src="https://abs.twimg.com/c/swift/en/init.74357f36bcd3cd58e88b095d995832976ac7b24a.js" async></script>
+
+  </head>
+  <body class="three-col logged-out user-style-DubaiHotties ms-windows PermalinkPage" 
+data-fouc-class-names="swift-loading"
+ dir="ltr">
+      <script id="swift_loading_indicator" nonce="JS2irUdzdavgEOJ+ZUtqnQ==">
+        document.body.className=document.body.className+" "+document.body.getAttribute("data-fouc-class-names");
+      </script>
+
+    <div id="doc" data-at-shortcutkeys="{&quot;Enter&quot;:&quot;Open Tweet details&quot;,&quot;o&quot;:&quot;Expand photo&quot;,&quot;/&quot;:&quot;Search&quot;,&quot;?&quot;:&quot;This menu&quot;,&quot;j&quot;:&quot;Next Tweet&quot;,&quot;k&quot;:&quot;Previous Tweet&quot;,&quot;Space&quot;:&quot;Page down&quot;,&quot;.&quot;:&quot;Load new Tweets&quot;,&quot;gu&quot;:&quot;Go to user\u2026&quot;}" class="route-permalink">
+        <div class="topbar js-topbar">
+
+  <div class="global-nav global-nav--newLoggedOut" data-section-term="top_nav">
+    <div class="global-nav-inner">
+      <div class="container">
+
+<ul class="nav js-global-actions" role="navigation" id="global-actions">
+  <li id="global-nav-home" class="home" data-global-action="home">
+    <a class="js-nav js-tooltip js-dynamic-tooltip" data-placement="bottom" href="/" data-component-context="home_nav" data-nav="home">
+      <span class="Icon Icon--bird Icon--large"></span>
+      <span class="text">Home</span>
+    </a>
+  </li>
+    <li id="global-nav-moments" class="moments" data-global-action="moments">
+      <a class="js-nav js-tooltip js-dynamic-tooltip" data-placement="bottom" href="/i/moments" data-component-context="moments_nav" data-nav="moments">
+        <span class="Icon Icon--lightning Icon--large"></span>
+        <span class="text">Moments</span>
+      </a>
+    </li>
+</ul>
+<div class="pull-right">
+    <div role="search">
+  <form class="t1-form form-search js-search-form" action="/search" id="global-nav-search">
+    <label class="visuallyhidden" for="search-query">Search query</label>
+    <input class="search-input" type="text" id="search-query" placeholder="Search Twitter" name="q" autocomplete="off" spellcheck="false">
+    <span class="search-icon js-search-action">
+      <button type="submit" class="Icon Icon--search nav-search">
+        <span class="visuallyhidden">Search Twitter</span>
+      </button>
+    </span>
+
+<div role="listbox" class="dropdown-menu typeahead">
+  <div aria-hidden="true" class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <div role="presentation" class="dropdown-inner js-typeahead-results">
+    <div role="presentation" class="typeahead-saved-searches">
+  <h3 id="saved-searches-heading" class="typeahead-category-title saved-searches-title">Saved searches</h3>
+  <ul role="presentation" class="typeahead-items saved-searches-list">
+
+    <li role="presentation" class="typeahead-item typeahead-saved-search-item">
+      <span class="Icon Icon--close" aria-hidden="true"><span class="visuallyhidden">Remove</span></span>
+      <a role="option" aria-describedby="saved-searches-heading" class="js-nav" href="" data-search-query="" data-query-source="" data-ds="saved_search" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+
+    <ul role="presentation" class="typeahead-items typeahead-topics">
+
+  <li role="presentation" class="typeahead-item typeahead-topic-item">
+    <a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-ds="topics" tabindex="-1"></a>
+  </li>
+</ul>
+
+<ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+
+  <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+
+    <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+      <img class="avatar size32" alt="">
+      <span class="typeahead-user-item-info">
+        <span class="fullname"></span>
+        <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+        <span class="username"><s>@</s><b></b></span>
+      </span>
+    </a>
+  </li>
+  <li role="presentation" class="js-selectable typeahead-accounts-shortcut js-shortcut"><a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-shortcut="true" data-ds="account_search"></a></li>
+</ul>
+
+    <ul role="presentation" class="typeahead-items typeahead-trend-locations-list">
+
+  <li role="presentation" class="typeahead-item typeahead-trend-locations-item"><a role="option" class="js-nav" href="" data-ds="trend_location" data-search-query="" tabindex="-1"></a></li>
+</ul>
+    <div role="presentation" class="typeahead-user-select">
+  <div role="presentation" class="typeahead-empty-suggestions">
+    Suggested users
+  </div>
+  <ul role="presentation" class="typeahead-items typeahead-selected js-typeahead-selected">
+
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-selected-item js-selectable">
+
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size32" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--check"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-selected-end"></li>
+  </ul>
+
+  <ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size32" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--check"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-accounts-end"></li>
+  </ul>
+</div>
+
+    <div role="presentation" class="typeahead-dm-conversations">
+  <ul role="presentation" class="typeahead-items typeahead-dm-conversation-items">
+    <li role="presentation" class="typeahead-item typeahead-dm-conversation-item">
+      <a role="option" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+  </div>
+</div>
+
+  </form>
+</div>
+
+  <ul class="nav secondary-nav language-dropdown">
+    <li class="dropdown js-language-dropdown">
+      <a href="#supported_languages" class="dropdown-toggle js-dropdown-toggle">
+        <small>Language:</small> <span class="js-current-language">English</span> <b class="caret"></b>
+      </a>
+      <div class="dropdown-menu">
+        <div class="dropdown-caret right">
+          <span class="caret-outer"> </span>
+          <span class="caret-inner"></span>
+        </div>
+        <ul id="supported_languages">
+            <li><a href="?lang=id" data-lang-code="id" title="Indonesian" class="js-language-link js-tooltip">Bahasa Indonesia</a></li>
+            <li><a href="?lang=msa" data-lang-code="msa" title="Malay" class="js-language-link js-tooltip">Bahasa Melayu</a></li>
+            <li><a href="?lang=ca" data-lang-code="ca" title="Catalan" class="js-language-link js-tooltip">Catal��</a></li>
+            <li><a href="?lang=cs" data-lang-code="cs" title="Czech" class="js-language-link js-tooltip">��e��tina</a></li>
+            <li><a href="?lang=da" data-lang-code="da" title="Danish" class="js-language-link js-tooltip">Dansk</a></li>
+            <li><a href="?lang=de" data-lang-code="de" title="German" class="js-language-link js-tooltip">Deutsch</a></li>
+            <li><a href="?lang=en-gb" data-lang-code="en-gb" title="British English" class="js-language-link js-tooltip">English UK</a></li>
+            <li><a href="?lang=es" data-lang-code="es" title="Spanish" class="js-language-link js-tooltip">Espa��ol</a></li>
+            <li><a href="?lang=fil" data-lang-code="fil" title="Filipino" class="js-language-link js-tooltip">Filipino</a></li>
+            <li><a href="?lang=fr" data-lang-code="fr" title="French" class="js-language-link js-tooltip">Fran��ais</a></li>
+            <li><a href="?lang=hr" data-lang-code="hr" title="Croatian" class="js-language-link js-tooltip">Hrvatski</a></li>
+            <li><a href="?lang=it" data-lang-code="it" title="Italian" class="js-language-link js-tooltip">Italiano</a></li>
+            <li><a href="?lang=hu" data-lang-code="hu" title="Hungarian" class="js-language-link js-tooltip">Magyar</a></li>
+            <li><a href="?lang=nl" data-lang-code="nl" title="Dutch" class="js-language-link js-tooltip">Nederlands</a></li>
+            <li><a href="?lang=no" data-lang-code="no" title="Norwegian" class="js-language-link js-tooltip">Norsk</a></li>
+            <li><a href="?lang=pl" data-lang-code="pl" title="Polish" class="js-language-link js-tooltip">Polski</a></li>
+            <li><a href="?lang=pt" data-lang-code="pt" title="Portuguese" class="js-language-link js-tooltip">Portugu��s</a></li>
+            <li><a href="?lang=ro" data-lang-code="ro" title="Romanian" class="js-language-link js-tooltip">Rom��n��</a></li>
+            <li><a href="?lang=sk" data-lang-code="sk" title="Slovak" class="js-language-link js-tooltip">Sloven��ina</a></li>
+            <li><a href="?lang=fi" data-lang-code="fi" title="Finnish" class="js-language-link js-tooltip">Suomi</a></li>
+            <li><a href="?lang=sv" data-lang-code="sv" title="Swedish" class="js-language-link js-tooltip">Svenska</a></li>
+            <li><a href="?lang=vi" data-lang-code="vi" title="Vietnamese" class="js-language-link js-tooltip">Ti���ng Vi���t</a></li>
+            <li><a href="?lang=tr" data-lang-code="tr" title="Turkish" class="js-language-link js-tooltip">T��rk��e</a></li>
+            <li><a href="?lang=el" data-lang-code="el" title="Greek" class="js-language-link js-tooltip">����������������</a></li>
+            <li><a href="?lang=bg" data-lang-code="bg" title="Bulgarian" class="js-language-link js-tooltip">������������������ ��������</a></li>
+            <li><a href="?lang=ru" data-lang-code="ru" title="Russian" class="js-language-link js-tooltip">��������������</a></li>
+            <li><a href="?lang=sr" data-lang-code="sr" title="Serbian" class="js-language-link js-tooltip">������������</a></li>
+            <li><a href="?lang=uk" data-lang-code="uk" title="Ukrainian" class="js-language-link js-tooltip">�������������������� ��������</a></li>
+            <li><a href="?lang=he" data-lang-code="he" title="Hebrew" class="js-language-link js-tooltip">����������������</a></li>
+            <li><a href="?lang=ar" data-lang-code="ar" title="Arabic" class="js-language-link js-tooltip">��������������</a></li>
+            <li><a href="?lang=fa" data-lang-code="fa" title="Persian" class="js-language-link js-tooltip">����������</a></li>
+            <li><a href="?lang=mr" data-lang-code="mr" title="Marathi" class="js-language-link js-tooltip">���������������</a></li>
+            <li><a href="?lang=hi" data-lang-code="hi" title="Hindi" class="js-language-link js-tooltip">������������������</a></li>
+            <li><a href="?lang=bn" data-lang-code="bn" title="Bengali" class="js-language-link js-tooltip">���������������</a></li>
+            <li><a href="?lang=gu" data-lang-code="gu" title="Gujarati" class="js-language-link js-tooltip">���������������������</a></li>
+            <li><a href="?lang=ta" data-lang-code="ta" title="Tamil" class="js-language-link js-tooltip">���������������</a></li>
+            <li><a href="?lang=kn" data-lang-code="kn" title="Kannada" class="js-language-link js-tooltip">���������������</a></li>
+            <li><a href="?lang=th" data-lang-code="th" title="Thai" class="js-language-link js-tooltip">���������������������</a></li>
+            <li><a href="?lang=ko" data-lang-code="ko" title="Korean" class="js-language-link js-tooltip">���������</a></li>
+            <li><a href="?lang=ja" data-lang-code="ja" title="Japanese" class="js-language-link js-tooltip">���������</a></li>
+            <li><a href="?lang=zh-cn" data-lang-code="zh-cn" title="Simplified Chinese" class="js-language-link js-tooltip">������������</a></li>
+            <li><a href="?lang=zh-tw" data-lang-code="zh-tw" title="Traditional Chinese" class="js-language-link js-tooltip">������������</a></li>
+        </ul>
+      </div>
+      <div class="js-front-language">
+        <form action="/sessions/change_locale" class="t1-form language" method="POST">
+          <input type="hidden" name="lang"> <input type="hidden" name="redirect">
+          <input type="hidden" name="authenticity_token" value="bf22c63b6fbbdaac52796f677afcad88be230ce2">
+        </form>
+      </div>
+    </li>
+  </ul>
+
+    <ul class="nav secondary-nav session-dropdown" id="session">
+      <li class="dropdown js-session">
+          <a href="/login" class="dropdown-toggle js-dropdown-toggle dropdown-signin" id="signin-link" data-nav="login">
+            <small>Have an account?</small> <span class="emphasize"> Log in</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu dropdown-form" id="signin-dropdown">
+            <div class="dropdown-caret right"> <span class="caret-outer"></span> <span class="caret-inner"></span> </div>
+            <div class="signin-dialog-body">
+              <div>Have an account?</div>
+              <form action="https://twitter.com/sessions" class="LoginForm js-front-signin" method="post"
+  data-component="login_callout"
+  data-element="form"
+>
+  <div class="LoginForm-input LoginForm-username">
+    <input
+      type="text"
+      class="text-input email-input js-signin-email"
+      name="session[username_or_email]"
+      autocomplete="username"
+      placeholder="Phone, email or username"
+    />
+  </div>
+
+  <div class="LoginForm-input LoginForm-password">
+    <input type="password" class="text-input" name="session[password]" placeholder="Password" autocomplete="current-password">
+  </div>
+
+  <div class="LoginForm-rememberForgot">
+    <label>
+      <input type="checkbox" value="1" name="remember_me" checked="checked">
+      <span>Remember me</span>
+    </label>
+    <span class="separator">&middot;</span>
+    <a class="forgot" href="/account/begin_password_reset">Forgot password?</a>
+  </div>
+
+  <input type="submit" class="submit btn primary-btn js-submit" value="Log in">
+
+    <input type="hidden" name="return_to_ssl" value="true">
+
+  <input type="hidden" name="scribe_log">
+  <input type="hidden" name="redirect_after_login" value="/dubaihotties/status/465891662452256768">
+  <input type="hidden" value="bf22c63b6fbbdaac52796f677afcad88be230ce2" name="authenticity_token">
+      <input type="hidden" name="ui_metrics" autocomplete="off">
+      <script src="/i/js_inst?c_name=ui_metrics" async></script>
+</form>
+
+              <hr>
+              <div class="signup SignupForm">
+                <div class="SignupForm-header">New to Twitter?</div>
+                <a href="https://twitter.com/signup" role="button" class="SignupForm-submit u-block u-textCenter js-signup btn"
+                  data-component="signup_callout"
+                  data-element="dropdown"
+                  >Sign up
+                </a>
+              </div>
+            </div>
+          </div>
+      </li>
+    </ul>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+        <div id="page-outer">
+          <div id="page-container" class="AppContent wrapper wrapper-permalink">
+
+<a class="PermalinkProfile-overlay js-nav" href="/DubaiHotties">
+  <span class="visuallyhidden">DubaiHotties's profile</span>
+</a>
+<div class="PermalinkProfile-background without-banner">
+  <div class="ProfileCanopy ProfileCanopy--withNav ProfileCanopy--large">
+  <div class="ProfileCanopy-inner">
+
+    <div class="ProfileCanopy-header u-bgUserColor">
+    <div class="ProfileCanopy-headerBg">
+      <img alt=""
+        src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/11/66CB4D4981A32731A87D65B3EB42C1FE784AD682C8C217DCA9D8F215E9493B40URLDELMaHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfYmFubmVycy8xNTEwMTAxOTIvMTM5OTM4MDQ3MC8xNTAweDUwMA=="
+
+      >
+    </div>
+
+  <div class="AppContainer">
+
+    <div class="ProfileCanopy-avatar">
+      <div class="ProfileAvatar">
+    <a class="ProfileAvatar-container u-block js-tooltip profile-picture"
+        href="https://pbs.twimg.com/profile_images/1205066517/heart"
+        title="Dubai Escorts"
+        data-resolved-url-large="https://pbs.twimg.com/profile_images/1205066517/heart"
+        data-url="https://pbs.twimg.com/profile_images/1205066517/heart"
+        target="_blank">
+      <img class="ProfileAvatar-image " src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/11/66CB4D4981A32731A87D65B3EB42C1FE784AD682C8C217DCA9D8F215E9493B40URLDELMaHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyMDUwNjY1MTcvaGVhcnRfNDAweDQwMA==" alt="Dubai Escorts">
+    </a>
+</div>
+
+    </div>
+
+    <div class="ProfileCanopy-headerPromptAnchor"></div>
+  </div>
+
+</div>
+
+    <div class="ProfileCanopy-navBar">
+
+      <div class="AppContainer">
+        <div class="Grid Grid--withGutter">
+          <div class="Grid-cell u-size1of3 u-lg-size1of4">
+            <div class="ProfileCanopy-card" role="presentation">
+              <div class="ProfileCardMini">
+  <a class="ProfileCardMini-avatar profile-picture js-tooltip"
+     href="https://pbs.twimg.com/profile_images/1205066517/heart"
+     title="Dubai Escorts"
+     data-resolved-url-large="https://pbs.twimg.com/profile_images/1205066517/heart"
+     data-url="https://pbs.twimg.com/profile_images/1205066517/heart"
+     target="_blank">
+    <img class="ProfileCardMini-avatarImage" alt="Dubai Escorts" src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/11/66CB4D4981A32731A87D65B3EB42C1FE784AD682C8C217DCA9D8F215E9493B40URLDELMaHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyMDUwNjY1MTcvaGVhcnRfbm9ybWFs" >
+  </a>
+  <div class="ProfileCardMini-details">
+    <div class="ProfileNameTruncated">
+  <div class="u-textTruncate u-inlineBlock">
+    <a class="ProfileNameTruncated-link u-textInheritColor js-nav js-action-profile-name" href="/DubaiHotties"  data-aria-label-part>
+      Dubai Escorts
+    </a>
+  </div>
+</div>
+    <div class="ProfileCardMini-screenname">
+      <a href="/DubaiHotties" class="ProfileCardMini-screennameLink u-linkComplex js-nav u-dir" dir="ltr">@<span class="u-linkComplex-target">DubaiHotties</span></a>
+    </div>
+  </div>
+</div>
+
+            </div>
+          </div>
+
+          <div class="Grid-cell u-size2of3 u-lg-size3of4">
+            <div class="ProfileCanopy-nav">
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+    <div class="ProfileHeading">
+  <div class="ProfileHeading-spacer"></div>
+</div>
+
+  <div class="AppContainer">
+    <div class="Grid Grid--withGutter">
+      <div class="Grid-cell u-size1of3 u-lg-size1of4">
+        <div class="Grid Grid--withGutter">
+          <div class="Grid-cell">
+            <div class="ProfileSidebar ProfileSidebar--withLeftAlignment">
+  <div class="ProfileHeaderCard">
+  <h1 class="ProfileHeaderCard-name">
+    <a href="/DubaiHotties"
+       class="ProfileHeaderCard-nameLink u-textInheritColor js-nav
+">Dubai Escorts</a>
+  </h1>
+
+  <h2 class="ProfileHeaderCard-screenname u-inlineBlock u-dir" dir="ltr">
+    <a class="ProfileHeaderCard-screennameLink u-linkComplex js-nav" href="/DubaiHotties">@<span class="u-linkComplex-target">DubaiHotties</span></a>
+  </h2>
+
+    <p class="ProfileHeaderCard-bio u-dir"
+
+      dir="ltr"><a href="https://t.co/HoJYFlsNv2" rel="nofollow" dir="ltr" data-expanded-url="https://www.alldubaiescorts.me" class="twitter-timeline-link" target="_blank" title="https://www.alldubaiescorts.me" ><span class="invisible">https://www.</span><span class="js-display-url">alldubaiescorts.me</span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a> is the most popular escort website in UAE</p>
+
+    <div class="ProfileHeaderCard-joinDate">
+      <span class="Icon Icon--calendar Icon--small"></span>
+      <span class="ProfileHeaderCard-joinDateText js-tooltip u-dir" dir="ltr" title="4:30 AM - 2 Jun 2010">Joined June 2010</span>
+    </div>
+
+      <div class="ProfileHeaderCard-birthdate u-hidden">
+        <span class="Icon Icon--balloon Icon--medium"></span>
+        <span class="ProfileHeaderCard-birthdateText u-dir" dir="ltr">
+</span>
+      </div>
+
+</div>
+
+</div>
+
+          </div>
+        </div>
+      </div>
+      <div class="Grid-cell u-size2of3 u-lg-size3of4">
+        <div class="Grid Grid--withGutter">
+          <div class="Grid-cell u-lg-size2of3" data-test-selector="ProfileTimeline">
+              <div class="ProfileHeading">
+  <div class="ProfileHeading-spacer"></div>
+</div>
+
+          </div>
+          <div class="Grid-cell u-size1of3">
+            <div class="Grid Grid--withGutter">
+              <div class="Grid-cell">
+                <div class="ProfileSidebar ProfileSidebar--withRightAlignment">
+                  <div class="MoveableModule">
+
+<div class="SidebarCommonModules">
+
+  <div class="Footer module roaming-module
+            Footer--slim
+            ">
+  <div class="flex-module">
+    <div class="flex-module-inner js-items-container">
+      <ul class="u-cf">
+        <li class="Footer-item Footer-copyright copyright">&copy; 2016 Twitter</li>
+        <li class="Footer-item"><a class="Footer-link" href="/about">About</a></li>
+        <li class="Footer-item"><a class="Footer-link" href="//support.twitter.com">Help</a></li>
+        <li class="Footer-item"><a class="Footer-link" href="/tos">Terms</a></li>
+        <li class="Footer-item"><a class="Footer-link" href="/privacy">Privacy</a></li>
+        <li class="Footer-item"><a class="Footer-link" href="//support.twitter.com/articles/20170514">Cookies</a></li>
+        <li class="Footer-item"><a class="Footer-link" href="//support.twitter.com/articles/20170451">Ads info</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+</div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style id="user-style-DubaiHotties">
+
+  a,
+  a:hover,
+  a:focus,
+  a:active {
+    color: #CC3366;
+  }
+
+  .u-textUserColor,
+  .u-textUserColorHover:hover,
+  .u-textUserColorHover:focus {
+    color: #CC3366 !important;
+  }
+
+  .u-borderUserColor,
+  .u-borderUserColorHover:hover,
+  .u-borderUserColorHover:focus {
+    border-color: #CC3366 !important;
+  }
+
+  .u-bgUserColor,
+  .u-bgUserColorHover:hover,
+  .u-bgUserColorHover:focus {
+    background-color: #CC3366 !important;
+  }
+
+  .u-dropdownUserColor > li:hover,
+  .u-dropdownUserColor > li:focus,
+  .u-dropdownUserColor > li > button:hover,
+  .u-dropdownUserColor > li > button:focus {
+    color: #fff !important;
+    background-color: #CC3366 !important;
+  }
+
+  .u-boxShadowInsetUserColorHover:hover,
+  .u-boxShadowInsetUserColorHover:focus {
+    box-shadow: inset 0 0 0 5px #CC3366 !important;
+  }
+
+  .u-textUserColorLight {
+    color: #EAADC1 !important;
+  }
+
+  .u-borderUserColorLight,
+  .u-borderUserColorLightFocus:focus,
+  .u-borderUserColorLightHover:hover,
+  .u-borderUserColorLightHover:focus {
+    border-color: #EAADC1 !important;
+  }
+
+  .u-bgUserColorLight {
+    background-color: #EAADC1 !important;
+  }
+
+  .u-boxShadowUserColorLighterFocus:focus {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.05), inset 0 1px 2px rgba(204,51,102,0.25) !important;
+  }
+
+  .u-textUserColorLightest {
+    color: #F9EAEF !important;
+  }
+
+  .u-borderUserColorLightest {
+    border-color: #F9EAEF !important;
+  }
+
+  .u-bgUserColorLightest {
+    background-color: #F9EAEF !important;
+  }
+
+  .u-textUserColorLighter {
+    color: #F2CCD8 !important;
+  }
+
+  .u-borderUserColorLighter {
+    border-color: #F2CCD8 !important;
+  }
+
+  .u-bgUserColorLighter {
+    background-color: #F2CCD8 !important;
+  }
+
+  .u-bgUserColorDarkHover:hover {
+    background-color: #A32851 !important;
+  }
+
+  .u-borderUserColorDark {
+    border-color: #A32851 !important;
+  }
+
+  .u-bgUserColorDarkerActive:active {
+    background-color: #7A1E3D !important;
+  }
+
+a,
+.btn-link,
+.btn-link:focus,
+.icon-btn,
+
+.pretty-link b,
+.pretty-link:hover s,
+.pretty-link:hover b,
+.pretty-link:focus s,
+.pretty-link:focus b,
+/* Account Group */
+.metadata a:hover,
+.metadata a:focus,
+
+.account-group:hover .fullname,
+.account-group:focus .fullname,
+.account-summary:focus .fullname,
+
+.message .message-text a,
+.stats a strong,
+.plain-btn:hover,
+.plain-btn:focus,
+.dropdown.open .user-dropdown.plain-btn,
+.open > .plain-btn,
+#global-actions .new:before,
+.module .list-link:hover,
+.module .list-link:focus,
+
+.stats a:hover,
+.stats a:hover strong,
+.stats a:focus,
+.stats a:focus strong,
+
+.find-friends-sources li:hover .source,
+
+.stream-item a:hover .fullname,
+.stream-item a:focus .fullname,
+
+.stream-item .view-all-supplements:hover,
+.stream-item .view-all-supplements:focus,
+
+.tweet .time a:hover,
+.tweet .time a:focus,
+.tweet .details.with-icn b,
+.tweet .details.with-icn .Icon,
+.tweet .tweet-geo-text a:hover,
+
+.stream-item:hover .original-tweet .details b,
+.stream-item .original-tweet.focus .details b,
+.stream-item.open .original-tweet .details b,
+
+.client-and-actions a:hover,
+.client-and-actions a:focus,
+
+.dismiss-btn:hover b,
+
+.tweet .context .pretty-link:hover s,
+.tweet .context .pretty-link:hover b,
+.tweet .context .pretty-link:focus s,
+.tweet .context .pretty-link:focus b,
+
+.list .username a:hover,
+.list .username a:focus,
+.list-membership-container .create-a-list,
+.list-membership-container .create-a-list:hover,
+
+.card .list-details a:hover,
+.card .list-details a:focus,
+.card .card-body:hover .attribution,
+.card .card-body .attribution:focus,
+.new-tweets-bar,
+.onebox .soccer ul.ticker a:hover,
+.onebox .soccer ul.ticker a:focus,
+
+.remove-background-btn,
+
+.stream-item-activity-notification .latest-tweet .tweet-row a:hover,
+.stream-item-activity-notification .latest-tweet .tweet-row a:focus,
+.stream-item-activity-notification .latest-tweet .tweet-row a:hover b,
+.stream-item-activity-notification .latest-tweet .tweet-row a:focus b {
+    color: #CC3366;
+}
+
+  /* hover state for found media items */
+  .FoundMediaSearch--keyboard .FoundMediaSearch-focusable.is-focused {
+    border-color: #CC3366;
+  }
+
+  /* hover state for photo select button*/
+  .photo-selector:hover .btn,
+  .icon-btn:hover,
+  .icon-btn:active,
+  .icon-btn.active,
+  .icon-btn.enabled {
+    border-color: #CC3366;
+    border-color: rgba(204,51,102,.5);
+    color: #CC3366;
+  }
+
+  /* hover state for photo select button*/
+  .photo-selector:hover .btn,
+  .icon-btn:hover {
+    background-image: linear-gradient(rgba(255,255,255,0), rgba(204,51,102,.1));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00FFFFFF', endColorstr='#19CC3366'); /* IE8-9 */
+  }
+
+  .icon-btn.disabled,
+  .icon-btn.disabled:hover,
+  .icon-btn[disabled],
+  .icon-btn[aria-disabled=true] {
+    color: #CC3366;
+  }
+
+  /* tweet-btn can have primary-btn class as well so the following rules ensure that the correct background color is applied */
+  .tweet-btn,
+  .tweet-btn:focus {
+    background-color: #CC3366;
+    background: rgba(204,51,102,.8);
+  }
+
+  .tweet-btn:hover,
+  .tweet-btn:active,
+  .tweet-btn.active {
+    background-color: #CC3366;
+  }
+
+  .tweet-btn.btn.disabled,
+  .tweet-btn.btn.disabled:hover,
+  .tweet-btn.btn[disabled],
+  .tweet-btn.btn[aria-disabled=true] {
+    background: #CC3366;
+  }
+
+  .btn:focus,
+  .btn.focus,
+  .Button:focus {
+    box-shadow:
+      0 0 0 1px #fff,
+      0 0 0 3px rgba(204, 51, 102, 0.5);
+  }
+
+  .selected-stream-item:focus {
+    box-shadow: 0 0 0 3px rgba(204, 51, 102, 0.5);
+  }
+
+  /* highlighting when navigate through timeline stream table view with j & k. */
+  .js-navigable-stream.stream-table-view .selected-stream-item[tabindex="-1"]:focus {
+    outline: 3px solid rgba(204, 51, 102, 0.5) !important;
+  }
+
+  /* box-shadow does not work with table tr element */
+  .js-navigable-stream.stream-table-view .selected-stream-item:focus {
+    box-shadow: none;
+  }
+
+  /**
+   * 1. Bring actionable tweet to top when active to ensure border
+   *    highlighting wraps entire tweet. Value must be at least at if not
+   *    higher than the z-index value of ProfileHeading to ensure first
+   *    tweet in timeline receives border on all four sides.
+   *    NOTE: z-index should be 2 to avoid conflicts with .ProfileCanopy and .ProfileCard-avatarLink
+   */
+
+  .js-stream-item.is-selected:focus .ProfileCard,
+  .QuoteTweet:hover,
+  .QuoteTweet:focus,
+  .QuoteTweet:active,
+  .activity-user-profile-content:hover,
+  .activity-user-profile-content:focus,
+  .activity-user-profile-content:active {
+    border-color: rgba(204, 51, 102, 0.5);
+    z-index: 2; /* 1 */
+  }
+
+  .global-dm-nav.new.with-count .dm-new {
+    background: #fff;
+  }
+
+  .global-dm-nav.new.with-count .dm-new .count-inner {
+    background: #CC3366;
+  }
+
+  .global-nav .people .count .count-inner {
+    background: #CC3366;
+  }
+
+  .dropdown-menu li > a:hover,
+  .dropdown-menu li > a:focus,
+  .dropdown-menu .dropdown-link:hover,
+  .dropdown-menu .dropdown-link:focus,
+  .dropdown-menu .dropdown-link.is-focused,
+  .dropdown-menu li:hover .dropdown-link,
+  .dropdown-menu li:focus .dropdown-link,
+  .dropdown-menu .typeahead-recent-search-item.selected,
+  .dropdown-menu .typeahead-saved-search-item.selected,
+  .dropdown-menu .selected a,
+  .dropdown-menu .dropdown-link.selected {
+    background-color: #CC3366 !important;
+  }
+
+/* give tweet boxes 10% of the users link color as background */
+.home-tweet-box,
+.LiveVideo-tweetBox,
+.RetweetDialog-commentBox,
+.WebToast-box--altColor {
+  background-color: #F9EAEF;
+}
+
+.conversations-enabled .inline-reply-caret .caret-inner {
+  border-bottom-color: #F9EAEF;
+}
+.top-timeline-tweetbox .timeline-tweet-box .tweet-form.condensed .tweet-box {
+  color: #CC3366;
+}
+/* give tweet box containers an outline using the users link color */
+.RichEditor {
+  border-color: #F2CCD8;
+}
+
+input:focus,
+textarea:focus,
+div[contenteditable="true"]:focus,
+div[contenteditable="true"].fake-focus {
+  border-color: #E084A3;
+  box-shadow: inset 0 0 0 1px rgba(204, 51, 102, 0.7);
+}
+
+.tweet-box textarea:focus,
+.tweet-box input[type=text],
+.currently-dragging .tweet-form.is-droppable .tweet-drag-help,
+.tweet-box[contenteditable="true"]:focus,
+.RichEditor.is-fakeFocus {
+  border-color: #EAADC1;
+  box-shadow: none;
+}
+
+s,
+.pretty-link:hover s,
+.pretty-link:focus s,
+.stream-item-activity-notification .latest-tweet .tweet-row a:hover s,
+.stream-item-activity-notification .latest-tweet .tweet-row a:focus s {
+    color: #CC3366;
+}
+
+.vellip,
+.vellip:before,
+.vellip:after,
+.conversation-module > li:after,
+.conversation-module > li:before,
+.ThreadedConversation-tweet ~ .ThreadedConversation-tweet:before,
+.ThreadedConversation-tweet:after,
+.ThreadedConversation-viewOther:before,
+.ThreadedConversation-unavailableTweet:before,
+.ThreadedConversation-unavailableTweet:after {
+    background-color: #E084A3;
+}
+
+.tweet .sm-reply,
+.tweet .sm-rt,
+.tweet .sm-fav,
+.tweet .sm-image,
+.tweet .sm-video,
+.tweet .sm-audio,
+.tweet .sm-geo,
+.tweet .sm-in,
+.tweet .sm-trash,
+.tweet .sm-more,
+.tweet .sm-page,
+.tweet .sm-embed,
+.tweet .sm-summary,
+.tweet .sm-chat,
+
+.timelines-navigation .active .profile-nav-icon,
+.timelines-navigation .profile-nav-icon:hover,
+.timelines-navigation .profile-nav-link:focus .profile-nav-icon,
+
+.sm-top-tweet,
+
+.metadata a.tweet-geo-text:hover .sm-geo {
+    background-color: #CC3366;
+}
+
+.enhanced-mini-profile .mini-profile .profile-summary {
+  background-image: url(https://pbs.twimg.com/profile_banners/151010192/1399380470/mobile);
+}
+
+.wrapper-profile .profile-card.profile-header .profile-header-inner {
+  background-image: url(https://pbs.twimg.com/profile_banners/151010192/1399380470/web);
+}
+
+  #global-tweet-dialog .modal-header {
+    border-bottom: solid 1px rgba(204, 51, 102, .25);
+  }
+
+  #global-tweet-dialog .modal-tweet-form-container {
+    background-color: #CC3366;
+    background: rgba(204, 51, 102, .1);
+  }
+
+  .inline-reply-tweetbox {
+    background-color: #F9EAEF;
+  }
+
 </style>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<style id="user-style-DubaiHotties-header-img" class="js-user-style-header-img">
 
-  ga('create', 'UA-69409434-1', 'auto');
-  ga('send', 'pageview');
+    body.user-style-DubaiHotties .enhanced-mini-profile .mini-profile .profile-summary {
+      background-image: url(https://pbs.twimg.com/profile_banners/151010192/1399380470/web);
+    }
 
-</script>
+    body.user-style-DubaiHotties .wrapper-profile .profile-card.profile-header .profile-header-inner {
+      background-image: url(https://pbs.twimg.com/profile_banners/151010192/1399380470/web);
+    }
 
-    </head>
-    <body>
-        <!--[if lt IE 7]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
+    .DashboardProfileCard-bg {
+      background-image: url(https://pbs.twimg.com/profile_banners/151010192/1399380470/600x200);
+    }
 
+    body.user-style-DubaiHotties .profile-canopy .bg-img {
+      background-image: url(https://pbs.twimg.com/profile_banners/151010192/1399380470/web_retina);
+    }
 
+</style>
 
-        <header>
-            <div class="wrap clearfix">
-                <a href="/" class="logo"></a>
-                <div class="header-social">
-                    <a href="https://www.facebook.com/sharer.php?u=http://elleescortsistanbul.com/" class="fb" target="_blank" rel="nofollow"></a>
-                    <a href="https://twitter.com/share?url=http://elleescortsistanbul.com/" class="tw" target="_blank" rel="nofollow"></a>
-                    <a href="https://plus.google.com/share?url=http://elleescortsistanbul.com/" class="gp" target="_blank" rel="nofollow"></a>
-                </div>
-            </div>
-        </header>
-
-        <nav class="header-nav">
-            <div class="wrap clearfix">
-                <ul>
-                    <li><a href="/main/">Home</a></li>
-                    <li><a href="/models">Photos</a></li>
-                    <li><a href="/booking">Booking</a></li>
-                    <li><a href="/contacts">Contacts</a></li>
-                </ul>
-
-                <div class="header-contacts" style="padding-top: 18px;">
-                    <span>Call, SMS and WhatsApp:</span>
-                    <strong>+90539 773 1367</strong>
-                    
-
-                </div>
-            </div>
-        </nav>
-
-
-		
-<section class="subheader section-slider bx-unstyled">
-
- <div class="wrap">
- <div class="section-slider-prev"></div>
- <div class="section-slider-next"></div>
- <div class="section-slider-wrap">
-  
-   <a href="http://elleescortsistanbul.com/models/duo-angelica-valeria-vip" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy80VmFsZXJpYS0yMjR4MzM5LmpwZw==);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy80VmFsZXJpYS0yMjR4MzM5LmpwZw==" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Valeria and Angelica</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 19 and 21</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/olga-vip" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9zb3BoaWFfcHJlc2xleV8tX3BsYXlib3lfYW1hdGV1cl8wMDgtMjI0eDMzOS5qcGc=);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9zb3BoaWFfcHJlc2xleV8tX3BsYXlib3lfYW1hdGV1cl8wMDgtMjI0eDMzOS5qcGc=" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Olga VIP</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 23</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/elva-escort" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9jaGFybG90dGVfc3Rva2VseV9pbl93aGl0ZV8wMDItMjI0eDMzOS5qcGc=);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9jaGFybG90dGVfc3Rva2VseV9pbl93aGl0ZV8wMDItMjI0eDMzOS5qcGc=" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Elva Escort</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 24</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/sue-vip" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9iZWxsZV9zaW5jbGFpcl9nZXR0aW5nX25ha2VkXzAwMy0yMjR4MzM5LmpwZw==);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9iZWxsZV9zaW5jbGFpcl9nZXR0aW5nX25ha2VkXzAwMy0yMjR4MzM5LmpwZw==" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Sue VIP</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 20</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/raya-escort" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy8xMzU4NjkwNjM2X2IxNzcucnUtMTktZmVybmFuZGEtcHJhZGEtZG9sb3Jlcy0yMDE1LTIyNHgzMzkuanBn);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy8xMzU4NjkwNjM2X2IxNzcucnUtMTktZmVybmFuZGEtcHJhZGEtZG9sb3Jlcy0yMDE1LTIyNHgzMzkuanBn" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Raya ESCORT</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 23</span>
-     <span class="girl-block-country">Russian</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/liza-istanbul-escort" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9saW5kc2F5X3dhZ25lcl8wMDMtMjI0eDMzOS5qcGc=);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9saW5kc2F5X3dhZ25lcl8wMDMtMjI0eDMzOS5qcGc=" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">VIP LIZA</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 27</span>
-     <span class="girl-block-country">BYELORUSSIA</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/sarah-vip" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy8xNF8tMjI0eDMzOS5qcGc=);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy8xNF8tMjI0eDMzOS5qcGc=" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Sarah VIP</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 23</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/shura-escort" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9lc2NvcnRfNjM5NTlfcGljLTFhVC0yMjR4MzM5LmpwZw==);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9lc2NvcnRfNjM5NTlfcGljLTFhVC0yMjR4MzM5LmpwZw==" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Shura Escort</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 22</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/istanbul-escort-vera-elite-top-model" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy84NDQzX2dpcmwxNDA5OTIwMDA0X2ltYWdlLTIyNHgzMzkuanBn);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy84NDQzX2dpcmwxNDA5OTIwMDA0X2ltYWdlLTIyNHgzMzkuanBn" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Top Escort Vera  Contact Me     </span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 27</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/marina-vip-escort" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9hNGVjMzMxMTI1Njc1MDYzODI0YzNjMDZhYzgzNWI4OC0yMjR4MzM5LmpwZw==);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9hNGVjMzMxMTI1Njc1MDYzODI0YzNjMDZhYzgzNWI4OC0yMjR4MzM5LmpwZw==" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Marina VIP Escort</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 23</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/angela-vip" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9jaGFybG90dGVfc3Rva2VseV9vbl9hX25ha2VkX3N0cm9sbF8wMDEtMjI0eDMzOS5qcGc=);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9jaGFybG90dGVfc3Rva2VseV9vbl9hX25ha2VkX3N0cm9sbF8wMDEtMjI0eDMzOS5qcGc=" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Angela VIP</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 23</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/lora-vip-escort" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9qZXNzaWNhX2Fubl8wMDEtMjI0eDMzOS5qcGc=);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9qZXNzaWNhX2Fubl8wMDEtMjI0eDMzOS5qcGc=" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Lora VIP ESCORT</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 22</span>
-     <span class="girl-block-country">ASIAN</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/zanna-escort" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9hbGljZV8wMDEtMjI0eDMzOS5qcGc=);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9hbGljZV8wMDEtMjI0eDMzOS5qcGc=" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Zanna ESCORT</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 23</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/marabella-vip" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy8yLTIyNHgzMzkuanBn);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy8yLTIyNHgzMzkuanBn" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Marabella VIP</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 24</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/vip-santana-escort" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9iZWF1X2hlc2xpbmdfLV9wbGF5Ym95X2ludGVybmF0aW9uYWxfbW9kZWxfMDAyLTIyNHgzMzkuanBn);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9iZWF1X2hlc2xpbmdfLV9wbGF5Ym95X2ludGVybmF0aW9uYWxfbW9kZWxfMDAyLTIyNHgzMzkuanBn" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">VIP Santana Escort</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 25</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/jane-escort-vip" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9jaGVsc2llX2FyeW5fbnVkZV8wMDMtMjI0eDMzOS5qcGc=);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9jaGVsc2llX2FyeW5fbnVkZV8wMDMtMjI0eDMzOS5qcGc=" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Jane Escort Vip</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 24</span>
-     <span class="girl-block-country">Russia</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/sveta-escort" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy8wNS0yMjR4MzM5LmpwZw==);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy8wNS0yMjR4MzM5LmpwZw==" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Sveta ESCORT</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 27</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/nastya-vip" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9tYXNzYWdlLWluLWxvbmRvbi1wYXRyaWNpYTEyMC0yMjR4MzM5LmpwZw==);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9tYXNzYWdlLWluLWxvbmRvbi1wYXRyaWNpYTEyMC0yMjR4MzM5LmpwZw==" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Nastya VIP</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 23</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/jannita-escort" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9icml0dG5leS0yMjR4MzM5LmpwZw==);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9icml0dG5leS0yMjR4MzM5LmpwZw==" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Jannita  ESCORT</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 23</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/ann-escort" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9waG90b18yXzI3MTM0LTIyNHgzMzkuanBn);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9waG90b18yXzI3MTM0LTIyNHgzMzkuanBn" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Ann Escort</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 23</span>
-     <span class="girl-block-country">Russia</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/anna-elite-escort" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy80QW5uYV9FTElURV9FU0NPUlQtMjI0eDMzOS5qcGc=);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy80QW5uYV9FTElURV9FU0NPUlQtMjI0eDMzOS5qcGc=" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Anna ELITE ESCORT</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 21</span>
-     <span class="girl-block-country">BYELORUSSIA</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/dianna-vip-model" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9jb2xlX2VzZW53ZWluXzAwMi0yMjR4MzM5LmpwZw==);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9jb2xlX2VzZW53ZWluXzAwMi0yMjR4MzM5LmpwZw==" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Dianna VIP ESCORT</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 23</span>
-     <span class="girl-block-country">BYELORUSSIA</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/irina-vip" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy81SXJpbmEtMjI0eDMzOS5qcGc=);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy81SXJpbmEtMjI0eDMzOS5qcGc=" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Irina VIP</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 20</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/veronika-elite" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9hbWJlcmxlaWdoX3dlc3RfLV9wbGF5Ym95X2FtYXRldXJfMDAwLTIyNHgzMzkuanBn);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9hbWJlcmxlaWdoX3dlc3RfLV9wbGF5Ym95X2FtYXRldXJfMDAwLTIyNHgzMzkuanBn" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Veronika Elite</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 23</span>
-     <span class="girl-block-country">Russia</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/andrea-istanbul-escort" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy81NTRmYzhmNGNlNTM5My45ODI4MDM0Ni0yMjR4MzM5LmpwZw==);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy81NTRmYzhmNGNlNTM5My45ODI4MDM0Ni0yMjR4MzM5LmpwZw==" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Andrea</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 24</span>
-     <span class="girl-block-country">Ukraine</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
-   <a href="http://elleescortsistanbul.com/models/kristina-vip" class="slide girl-block">
-    <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9rcmlzdGluZV9zaW1tb25zXy1fcGxheWJveV9jeWJlcmdpcmxfMDA5LTIyNHgzMzkuanBn);">
-     <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9rcmlzdGluZV9zaW1tb25zXy1fcGxheWJveV9jeWJlcmdpcmxfMDA5LTIyNHgzMzkuanBn" width="224" height="339"  alt="" />
-    </span>
-    <span class="girl-block-info">
-     <span class="girl-block-name">Kristina VIP</span>
-    </span>
-    <span class="girl-block-bottom clearfix">
-     <span class="girl-block-age">Age: 23</span>
-     <span class="girl-block-country">BYELORUSSIA</span>
-    </span>
-    <span class="girl-block-footer"></span>
-   </a>
-  
- </div><!-- .section-slider-wrap -->
-</div>
-
-</section>
-
-<section class="main">
- <div class="wrap clearfix">
-  <div class="main-left">
-
-   <div class="main-filter">
- <ul>
-  
-   <li><a href="/models/blonde">Blonde</a></li>
-  
-   <li><a href="/models/brunette">Brunette</a></li>
-  
-   <li><a href="/models/duo">DUO</a></li>
-  
-   <li><a href="/models/incall">Incall</a></li>
-  
- </ul>
-</div><!-- .main-filter -->
-   <div class="sidefilter-categories">
- <strong class="sidefilter-heading">Escorts</strong>
- <strong class="sidefilter-subheading">Categories</strong>
- <ul>
-  
-   <li><a href="/models/ws-escorts">WS Escorts</a></li>
-  
-   <li><a href="/models/top-girls">Top Girls</a></li>
-  
-   <li><a href="/models/russian-escorts">Russian Escorts</a></li>
-  
-   <li><a href="/models/reviewed-girls">Reviewed Girls</a></li>
-  
-   <li><a href="/models/red-hair-escorts">Red Hair Escorts</a></li>
-  
-   <li><a href="/models/punternet-reviewed">Punternet Reviewed</a></li>
-  
-   <li><a href="/models/polish-escorts">Polish Escorts</a></li>
-  
-   <li><a href="/models/petite-escorts">Petite Escorts</a></li>
-  
-   <li><a href="/models/party-girls">Party Girls</a></li>
-  
-   <li><a href="/models/open-minded">Open Minded</a></li>
-  
-   <li><a href="/models/new-escorts">New Escorts</a></li>
-  
-   <li><a href="/models/cim-escorts">CIM Escorts</a></li>
-  
-   <li><a href="/models/busty-escorts">Busty Escorts</a></li>
-  
-   <li><a href="/models/a-level-escorts">A-level Escorts</a></li>
-  
- </ul>
-</div>
-   
-
-  </div><!-- .main-left -->
-
-  
-   <div class="main-right">
-    <div class="model-content clearfix">
-     <div class="model-left">
-      <div class="model-content-top clearfix">
-       <h3 class="model-name">Valeria and Angelica</h3>
-       <a href="/booking/Valeria and Angelica" class="model-bookbtn"></a>
-      </div>
-
-       <div class="model-block">
-  <strong class="model-block-head">Valeria and Angelica's Ancet</strong>
-  <section>
-   <table>
-    <tbody>
-     <tr>
-      <td>Age:</td>
-      <td>19 and 21</td>
-     </tr>
-     <tr>
-      <td>Nationality:</td>
-      <td>Ukraine</td>
-     </tr>
-     <tr>
-      <td>Measurement:</td>
-      <td>90 60 95</td>
-     </tr>
-     <tr>
-      <td>Height:</td>
-      <td>1,67</td>
-     </tr>
-     <tr>
-      <td>Dress Size:</td>
-      <td>S</td>
-     </tr>
-     <tr>
-      <td>Hair Colour:</td>
-      <td>BRUNET</td>
-     </tr>
-     <tr>
-      <td>Eye Colour:</td>
-      <td>BROWN</td>
-     </tr>
-     <tr>
-      <td>Languages:</td>
-      <td>ENGLISH TURKISH</td>
-     </tr>
-     <tr>
-      <td>Weight:</td>
-      <td>55 kg</td>
-     </tr>
-    </tbody>
-   </table>
-  </section>
- </div>
-
-       <div class="model-block">
- <strong class="model-block-head">Pricing</strong>
-  <section>
-   <div id="tab-container" class="tab-container">
-    
-
-    <div id="eur">
-     <table>
-      <tbody>
-       <tr>
-        <td>Duration</td>
-        <td>Incall</td>
-        <td>Outcall</td>
-       </tr>
-       
-    	<tr>
-         <td>1 HOUR</td>
-         <td>250</td>
-         <td>300</td>
-        </tr>
-       
-    	<tr>
-         <td>2 HOUR</td>
-         <td>350</td>
-         <td>400</td>
-        </tr>
-       
-    	<tr>
-         <td>3 HOUR</td>
-         <td>500</td>
-         <td>550</td>
-        </tr>
-       
-    	<tr>
-         <td>4 HOUR</td>
-         <td>650</td>
-         <td>750</td>
-        </tr>
-       
-    	<tr>
-         <td>6 HOUR</td>
-         <td>850</td>
-         <td>900</td>
-        </tr>
-       
-    	<tr>
-         <td>OVERNIGHT</td>
-         <td>1000</td>
-         <td>1000</td>
-        </tr>
-       
-    	<tr>
-         <td>TAXI</td>
-         <td></td>
-         <td></td>
-        </tr>
-       
-    	<tr>
-         <td>ASIAN SIDE</td>
-         <td>80</td>
-         <td></td>
-        </tr>
-       
-    	<tr>
-         <td>EUROPEAN SIDE</td>
-         <td>50</td>
-         <td></td>
-        </tr>
-       
-    	<tr>
-         <td></td>
-         <td></td>
-         <td></td>
-        </tr>
-       
-    	<tr>
-         <td></td>
-         <td></td>
-         <td></td>
-        </tr>
-       
-    	<tr>
-         <td></td>
-         <td></td>
-         <td></td>
-        </tr>
-       
-      </tbody>
-     </table>
-    </div>
-
-    <div id="usd">
-     <table>
-      <tbody>
-       <tr>
-        <td>Duration</td>
-        <td>Incall</td>
-        <td>Outcall</td>
-       </tr>
-       
-    	<tr>
-         <td>1 HOUR</td>
-         <td>
-					285
-			</td>
-         <td>
-					341
-			</td>
-        </tr>
-       
-    	<tr>
-         <td>2 HOUR</td>
-         <td>
-					398
-			</td>
-         <td>
-					455
-			</td>
-        </tr>
-       
-    	<tr>
-         <td>3 HOUR</td>
-         <td>
-					569
-			</td>
-         <td>
-					626
-			</td>
-        </tr>
-       
-    	<tr>
-         <td>4 HOUR</td>
-         <td>
-					740
-			</td>
-         <td>
-					854
-			</td>
-        </tr>
-       
-    	<tr>
-         <td>6 HOUR</td>
-         <td>
-					967
-			</td>
-         <td>
-					1 024
-			</td>
-        </tr>
-       
-    	<tr>
-         <td>OVERNIGHT</td>
-         <td>
-					1 138
-			</td>
-         <td>
-					1 138
-			</td>
-        </tr>
-       
-    	<tr>
-         <td>TAXI</td>
-         <td>
-			</td>
-         <td>
-			</td>
-        </tr>
-       
-    	<tr>
-         <td>ASIAN SIDE</td>
-         <td>
-					91
-			</td>
-         <td>
-			</td>
-        </tr>
-       
-    	<tr>
-         <td>EUROPEAN SIDE</td>
-         <td>
-					57
-			</td>
-         <td>
-			</td>
-        </tr>
-       
-    	<tr>
-         <td></td>
-         <td>
-			</td>
-         <td>
-			</td>
-        </tr>
-       
-    	<tr>
-         <td></td>
-         <td>
-			</td>
-         <td>
-			</td>
-        </tr>
-       
-    	<tr>
-         <td></td>
-         <td>
-			</td>
-         <td>
-			</td>
-        </tr>
-       
-      </tbody>
-     </table>
-    </div>
-
-    <div id="try">
-     <table>
-      <tbody>
-       <tr>
-        <td>Duration</td>
-        <td>Incall</td>
-        <td>Outcall</td>
-       </tr>
-       
-    	<tr>
-         <td>1 HOUR</td>
-															<td>	
-																																	813
-																															</td>
-															<td>	
-																																	975
-																															</td>
-        </tr>
-       
-    	<tr>
-         <td>2 HOUR</td>
-															<td>	
-																																	1 138
-																															</td>
-															<td>	
-																																	1 300
-																															</td>
-        </tr>
-       
-    	<tr>
-         <td>3 HOUR</td>
-															<td>	
-																																	1 625
-																															</td>
-															<td>	
-																																	1 788
-																															</td>
-        </tr>
-       
-    	<tr>
-         <td>4 HOUR</td>
-															<td>	
-																																	2 113
-																															</td>
-															<td>	
-																																	2 438
-																															</td>
-        </tr>
-       
-    	<tr>
-         <td>6 HOUR</td>
-															<td>	
-																																	2 763
-																															</td>
-															<td>	
-																																	2 925
-																															</td>
-        </tr>
-       
-    	<tr>
-         <td>OVERNIGHT</td>
-															<td>	
-																																	3 250
-																															</td>
-															<td>	
-																																	3 250
-																															</td>
-        </tr>
-       
-    	<tr>
-         <td>TAXI</td>
-															<td>	
-																															</td>
-															<td>	
-																															</td>
-        </tr>
-       
-    	<tr>
-         <td>ASIAN SIDE</td>
-															<td>	
-																																	260
-																															</td>
-															<td>	
-																															</td>
-        </tr>
-       
-    	<tr>
-         <td>EUROPEAN SIDE</td>
-															<td>	
-																																	163
-																															</td>
-															<td>	
-																															</td>
-        </tr>
-       
-    	<tr>
-         <td></td>
-															<td>	
-																															</td>
-															<td>	
-																															</td>
-        </tr>
-       
-    	<tr>
-         <td></td>
-															<td>	
-																															</td>
-															<td>	
-																															</td>
-        </tr>
-       
-    	<tr>
-         <td></td>
-															<td>	
-																															</td>
-															<td>	
-																															</td>
-        </tr>
-       
-      </tbody>
-     </table>
-    </div>
-   </div><!-- .tab-container -->
-  </section>
- </div><!-- .model-block -->
-
-
- <div class="model-block">
-  <strong class="model-block-head">Valeria and Angelica services</strong>
-  <section>
-   <table>
-    <tbody>
-
-	
-     <tr>
-      		<td>BDSM</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>Come in mouth</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>Cum in face</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>Cumshot</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>Domanition or Submission</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>Erotic dances</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>GFE</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>Kissing With tongue</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>Lesbian Show</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>Massage</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>On body</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>Oral Sex</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>Pose 69</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>Taking and Giving</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-     <tr>
-      		<td>Threesome</td>
-      		<td><b>Yes</b></td>
-     </tr>
-    	
-
-    </tbody>
-   </table>
-  </section>
- </div>
-
-      <div class="model-block">
-       <strong class="model-block-head">Categories</strong>
-       <section>
-        <div class="textwrap services">
-         
-          <a href="/models/brunette">Brunette</a>
-         
-          <a href="/models/duo">DUO</a>
-         
-          <a href="/models/top-girls">Top Girls</a>
-         
-          <a href="/models/russian-escorts">Russian Escorts</a>
-         
-          <a href="/models/reviewed-girls">Reviewed Girls</a>
-         
-          <a href="/models/red-hair-escorts">Red Hair Escorts</a>
-         
-          <a href="/models/punternet-reviewed">Punternet Reviewed</a>
-         
-          <a href="/models/polish-escorts">Polish Escorts</a>
-         
-          <a href="/models/petite-escorts">Petite Escorts</a>
-         
-          <a href="/models/party-girls">Party Girls</a>
-         
-          <a href="/models/open-minded">Open Minded</a>
-         
-          <a href="/models/new-escorts">New Escorts</a>
-         
-          <a href="/models/cim-escorts">CIM Escorts</a>
-         
-          <a href="/models/busty-escorts">Busty Escorts</a>
-         
+          </div>
         </div>
-       </section>
+
+    </div>
+    <div class="alert-messages hidden" id="message-drawer">
+    <div class="message ">
+  <div class="message-inside">
+    <span class="message-text"></span>
+      <a role="button" class="Icon Icon--close Icon--medium dismiss" href="#">
+        <span class="visuallyhidden">Dismiss</span>
+      </a>
+  </div>
+</div>
+</div>
+
+<div class="gallery-overlay"></div>
+<div class="Gallery">
+  <div class="Gallery-closeTarget"></div>
+  <div class="Gallery-content">
+    <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--large">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+    <div class="Gallery-media"></div>
+    <div class="GalleryNav GalleryNav--prev">
+      <span class="GalleryNav-handle GalleryNav-handle--prev">
+        <span class="Icon Icon--caretLeft Icon--large">
+          <span class="u-hiddenVisually">
+            Previous
+          </span>
+        </span>
+      </span>
+    </div>
+    <div class="GalleryNav GalleryNav--next">
+      <span class="GalleryNav-handle GalleryNav-handle--next">
+        <span class="Icon Icon--caretRight Icon--large">
+          <span class="u-hiddenVisually">
+            Next
+          </span>
+        </span>
+      </span>
+    </div>
+    <div class="GalleryTweet"></div>
+  </div>
+</div>
+
+<div class="modal-overlay"></div>
+
+<div id="profile-hover-container"></div>
+
+<div id="goto-user-dialog" class="modal-container">
+  <div class="modal modal-small draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Go to a person's profile</h3>
       </div>
 
-      <p>These two charming girls - this is an incredible duo of lust and passion, tenderness and affection, beauty and femininity. These incredible women can give heavenly pleasure! This luxury girls with a perfect figure, beautiful faces and incredible talent! They are young and active, know english and turkish languages, they will help you to really relax!</p>
-     </div><!-- .model-left -->
+      <div class="modal-body">
+        <div class="modal-inner">
+          <form class="t1-form goto-user-form">
+            <input class="input-block username-input" type="text" placeholder="Start typing a name to jump to a profile" aria-label="User">
 
-     <div class="model-right clearfix">
+<div role="listbox" class="dropdown-menu typeahead">
+  <div aria-hidden="true" class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <div role="presentation" class="dropdown-inner js-typeahead-results">
+    <div role="presentation" class="typeahead-saved-searches">
+  <h3 id="saved-searches-heading" class="typeahead-category-title saved-searches-title">Saved searches</h3>
+  <ul role="presentation" class="typeahead-items saved-searches-list">
 
-       <div class="model-gallery clearfix">
-  <a href="http://elleescortsistanbul.com/images/uploads/4Valeria.jpg" class="model-image"><img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_6/part_6_5/10/3938D3EAB9C0D2003B32BC4F53F7A7C398B83CAD5E1D61ECFA9C798435B1BE18URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy80VmFsZXJpYS00MDB4NTQ2LmpwZw==" alt=""></a>
-    <a href="http://elleescortsistanbul.com/images/uploads/1Valeria.jpg" class="model-image"><img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_6/part_6_5/10/3938D3EAB9C0D2003B32BC4F53F7A7C398B83CAD5E1D61ECFA9C798435B1BE18URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy8xVmFsZXJpYS0xMjJ4MTg2LmpwZw==" alt=""></a>  
-      <a href="http://elleescortsistanbul.com/images/uploads/2Valeria.jpg" class="model-image"><img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_6/part_6_5/10/3938D3EAB9C0D2003B32BC4F53F7A7C398B83CAD5E1D61ECFA9C798435B1BE18URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy8yVmFsZXJpYS0xMjJ4MTg2LmpwZw==" alt=""></a>
-        <a href="http://elleescortsistanbul.com/images/uploads/5Valeria.jpg" class="model-image"><img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_6/part_6_5/10/3938D3EAB9C0D2003B32BC4F53F7A7C398B83CAD5E1D61ECFA9C798435B1BE18URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy81VmFsZXJpYS0xMjJ4MTg2LmpwZw==" alt=""></a>
-      <a href="http://elleescortsistanbul.com/images/uploads/3Valeria.jpg" class="model-image"><img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_6/part_6_5/10/3938D3EAB9C0D2003B32BC4F53F7A7C398B83CAD5E1D61ECFA9C798435B1BE18URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy8zVmFsZXJpYS0xMjJ4MTg2LmpwZw==" alt=""></a>
+    <li role="presentation" class="typeahead-item typeahead-saved-search-item">
+      <span class="Icon Icon--close" aria-hidden="true"><span class="visuallyhidden">Remove</span></span>
+      <a role="option" aria-describedby="saved-searches-heading" class="js-nav" href="" data-search-query="" data-query-source="" data-ds="saved_search" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+
+    <ul role="presentation" class="typeahead-items typeahead-topics">
+
+  <li role="presentation" class="typeahead-item typeahead-topic-item">
+    <a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-ds="topics" tabindex="-1"></a>
+  </li>
+</ul>
+
+<ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+
+  <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+
+    <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+      <img class="avatar size32" alt="">
+      <span class="typeahead-user-item-info">
+        <span class="fullname"></span>
+        <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+        <span class="username"><s>@</s><b></b></span>
+      </span>
+    </a>
+  </li>
+  <li role="presentation" class="js-selectable typeahead-accounts-shortcut js-shortcut"><a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-shortcut="true" data-ds="account_search"></a></li>
+</ul>
+
+    <ul role="presentation" class="typeahead-items typeahead-trend-locations-list">
+
+  <li role="presentation" class="typeahead-item typeahead-trend-locations-item"><a role="option" class="js-nav" href="" data-ds="trend_location" data-search-query="" tabindex="-1"></a></li>
+</ul>
+    <div role="presentation" class="typeahead-user-select">
+  <div role="presentation" class="typeahead-empty-suggestions">
+    Suggested users
+  </div>
+  <ul role="presentation" class="typeahead-items typeahead-selected js-typeahead-selected">
+
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-selected-item js-selectable">
+
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size32" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--check"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-selected-end"></li>
+  </ul>
+
+  <ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size32" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--check"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-accounts-end"></li>
+  </ul>
+</div>
+
+    <div role="presentation" class="typeahead-dm-conversations">
+  <ul role="presentation" class="typeahead-items typeahead-dm-conversation-items">
+    <li role="presentation" class="typeahead-item typeahead-dm-conversation-item">
+      <a role="option" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+  </div>
+</div>
+
+          </form>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+  <div id="retweet-tweet-dialog" class="RetweetDialog modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="RetweetDialog-modal modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Retweet this to your followers?</h3>
+      </div>
+
+      <form class="t1-form tweet-form condensed RetweetDialog-tweetForm isWithoutComment" data-condensed-text="Add a comment...">
+        <div class="RetweetDialog-commentBox">
+          <span class="visuallyhidden" id="-label">Optional comment for Retweet</span>
+          <div class="tweet-content">
+            <div class="RichEditor">
+
+  <div class="RichEditor-mozillaCursorWorkaround">&nbsp;</div>
+  <div class="RichEditor-scrollContainer">
+
+            <div aria-labelledby="-label" id="" class="tweet-box rich-editor"
+              contenteditable="true" spellcheck="true" role="textbox" aria-multiline="true"></div>
+
+    <div class="RichEditor-pictographs" aria-hidden="true"></div>
+  </div>
+  <div class="RichEditor-mozillaCursorWorkaround">&nbsp;</div>
+</div>
+
+          </div>
+
+<div role="listbox" class="dropdown-menu typeahead">
+  <div aria-hidden="true" class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <div role="presentation" class="dropdown-inner js-typeahead-results">
+    <div role="presentation" class="typeahead-saved-searches">
+  <h3 id="saved-searches-heading" class="typeahead-category-title saved-searches-title">Saved searches</h3>
+  <ul role="presentation" class="typeahead-items saved-searches-list">
+
+    <li role="presentation" class="typeahead-item typeahead-saved-search-item">
+      <span class="Icon Icon--close" aria-hidden="true"><span class="visuallyhidden">Remove</span></span>
+      <a role="option" aria-describedby="saved-searches-heading" class="js-nav" href="" data-search-query="" data-query-source="" data-ds="saved_search" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+
+    <ul role="presentation" class="typeahead-items typeahead-topics">
+
+  <li role="presentation" class="typeahead-item typeahead-topic-item">
+    <a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-ds="topics" tabindex="-1"></a>
+  </li>
+</ul>
+
+<ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+
+  <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+
+    <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+      <img class="avatar size32" alt="">
+      <span class="typeahead-user-item-info">
+        <span class="fullname"></span>
+        <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+        <span class="username"><s>@</s><b></b></span>
+      </span>
+    </a>
+  </li>
+  <li role="presentation" class="js-selectable typeahead-accounts-shortcut js-shortcut"><a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-shortcut="true" data-ds="account_search"></a></li>
+</ul>
+
+    <ul role="presentation" class="typeahead-items typeahead-trend-locations-list">
+
+  <li role="presentation" class="typeahead-item typeahead-trend-locations-item"><a role="option" class="js-nav" href="" data-ds="trend_location" data-search-query="" tabindex="-1"></a></li>
+</ul>
+    <div role="presentation" class="typeahead-user-select">
+  <div role="presentation" class="typeahead-empty-suggestions">
+    Suggested users
+  </div>
+  <ul role="presentation" class="typeahead-items typeahead-selected js-typeahead-selected">
+
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-selected-item js-selectable">
+
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size32" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--check"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-selected-end"></li>
+  </ul>
+
+  <ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size32" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--check"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-accounts-end"></li>
+  </ul>
+</div>
+
+    <div role="presentation" class="typeahead-dm-conversations">
+  <ul role="presentation" class="typeahead-items typeahead-dm-conversation-items">
+    <li role="presentation" class="typeahead-item typeahead-dm-conversation-item">
+      <a role="option" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="RetweetDialog-footer u-cf">
+          <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+          <div class="RetweetDialog-tweet modal-body modal-tweet tweet"></div>
+          <div class="tweet-button">
+            <span class="spinner"></span>
+            <span class="RetweetDialog-counter tweet-counter">140</span>
+            <button class="btn primary-btn retweet-action" type="button">
+              <span class="RetweetDialog-retweetActionLabel">
+                <span class="Icon Icon--retweet"></span>
+                Retweet
+              </span>
+              <span class="RetweetDialog-tweetActionLabel">
+                <span class="Icon Icon--tweet"></span>
+                Tweet
+              </span>
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+  <div id="delete-tweet-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Are you sure you want to delete this Tweet?</h3>
+      </div>
+
+      <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+      <div class="modal-body modal-tweet"></div>
+
+      <div class="modal-footer">
+        <button class="btn cancel-action js-close">Cancel</button>
+        <button class="btn primary-btn delete-action">Delete</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="quick-promote-dialog" class="QuickPromoteDialog modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--large">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Promote this Tweet</h3>
+      </div>
+      <div class="modal-body">
+        <div class="quick-promote-view-container">
+          <div class="media">
+            <iframe
+              class="quick-promote-iframe js-initial-focus"
+              scrolling="no"
+              frameborder="0"
+              src="">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="block-user-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Block</h3>
+      </div>
+
+      <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+      <div class="modal-body modal-tweet"></div>
+
+      <div class="modal-footer">
+        <button class="btn cancel-action js-close">Cancel</button>
+        <button class="btn primary-btn block-action">Block</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+     <div id="geo-disabled-dropdown">
+      <div tabindex="-1">
+  <div class="dropdown-caret">
+    <span class="caret-outer"></span>
+    <span class="caret-inner"></span>
+  </div>
+  <ul>
+    <li class="geo-not-enabled-yet">
+      <h2>Add a location to your Tweets</h2>
+      <p>
+        When you tweet with a location, Twitter stores that location.&#32;
+        You can switch location on/off before each Tweet and always have the option to delete your location history.
+        <a href="http://support.twitter.com/forums/26810/entries/78525" target="_blank">Learn more</a>
+      </p>
+      <div>
+        <button type="button" class="geo-turn-on btn primary-btn">Turn location on</button>
+        <button type="button" class="geo-not-now btn-link">Not now</button>
+      </div>
+    </li>
+  </ul>
+</div>
+
+    </div>
+
+  <div id="geo-enabled-dropdown">
+    <div tabindex="-1">
+  <div class="dropdown-caret">
+    <span class="caret-outer"></span>
+    <span class="caret-inner"></span>
+  </div>
+  <div>
+    <div class="geo-query-location">
+      <input class="GeoSearch-queryInput" type="text" autocomplete="off" placeholder="Search for a neighborhood or city">
+      <span class="Icon Icon--search"></span>
+    </div>
+    <div class="geo-dropdown-status"></div>
+    <ul class="GeoSearch-dropdownMenu"></ul>
+  </div>
+</div>
+
+  </div>
+
+  <div id="profile_popup" class="modal-container ProfilePopupContainer--bellbird">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-small draggable">
+    <div class="modal-content clearfix">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Profile summary</h3>
+      </div>
+
+      <div class="modal-body profile-modal">
+
+      </div>
+
+      <div class="loading">
+        <span class="spinner-bigger"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="list-membership-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-small draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Your lists</h3>
+      </div>
+      <div class="modal-body">
+        <div class="list-membership-content"></div>
+        <span class="spinner lists-spinner" title="Loading&hellip;"></span>
+      </div>
+    </div>
+  </div>
+</div>
+  <div id="list-operations-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Create a new list</h3>
+      </div>
+      <div class="modal-body">
+
+<div class="list-editor">
+  <div class="field">
+    <label class="t1-label" for="list-name">List name</label>
+    <input id="list-name" type="text" class="text" name="name" value="" />
+  </div>
+  <hr/>
+
+  <div class="field">
+    <label class="t1-label" for="list-description">Description</label>
+    <textarea id="list-description" name="description"></textarea>
+    <span class="help-text">Under 100 characters, optional</span>
+  </div>
+  <hr/>
+
+  <fieldset class="field">
+    <legend class="t1-legend">Privacy</legend>
+    <div class="options">
+      <label class="t1-label" for="list-public-radio">
+        <input class="radio" type="radio" name="mode" id="list-public-radio" value="public" checked="checked"  />
+        <b>Public</b> &middot; Anyone can follow this list
+      </label>
+      <label class="t1-label" for="list-private-radio">
+        <input class="radio" type="radio" name="mode" id="list-private-radio" value="private"  />
+        <b>Private</b> &middot; Only you can access this list
+      </label>
+    </div>
+  </fieldset>
+  <hr/>
+
+  <div class="list-editor-save">
+    <button type="button" class="btn btn-primary update-list-button" data-list-id="">Save list</button>
+  </div>
+
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="activity-popup-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content clearfix">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title"></h3>
+      </div>
+
+      <div class="modal-body">
+        <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+        <div class="activity-tweet modal-tweet clearfix"></div>
+        <div class="loading">
+          <span class="spinner-bigger"></span>
+        </div>
+        <div class="activity-content clearfix"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="copy-link-to-tweet-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Copy link to Tweet</h3>
+      </div>
+      <div class="modal-body">
+        <div class="copy-link-to-tweet-container">
+          <label class="t1-label">
+            <p class="copy-link-to-tweet-instructions">The URL of this tweet is below. Copy it to easily share with friends.</p>
+            <textarea class="link-to-tweet-destination js-initial-focus u-dir" dir="ltr" readonly></textarea>
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="embed-tweet-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title embed-tweet-title">Embed this Tweet</h3>
+        <h3 class="modal-title embed-video-title">Embed this Video</h3>
+      </div>
+      <div class="modal-body">
+        <div class="embed-code-container">
+  <p class="embed-tweet-instructions">Add this Tweet to your website by copying the code below. <a href="//dev.twitter.com/docs/embedded-tweets">Learn more</a></p>
+  <p class="embed-video-instructions">Add this video to your website by copying the code below. <a href="//dev.twitter.com/docs/embedded-tweets">Learn more</a></p>
+  <form class="t1-form">
+
+    <div class="embed-destination-wrapper">
+      <div class="embed-overlay embed-overlay-spinner"><div class="embed-overlay-content"></div></div>
+      <div class="embed-overlay embed-overlay-error">
+        <p class="embed-overlay-content">Hmm, there was a problem reaching the server. <button type="button" class="btn-link retry-embed">Try again?</button></p>
+      </div>
+      <textarea class="embed-destination js-initial-focus"></textarea>
+      <div class="embed-options">
+        <div class="embed-include-parent-tweet">
+          <label class="t1-label" for="include-parent-tweet">
+            <input type="checkbox" id="include-parent-tweet" class="include-parent-tweet" checked>
+            Include parent Tweet
+          </label>
+        </div>
+        <div class="embed-include-card">
+          <label class="t1-label" for="include-card">
+            <input type="checkbox" id="include-card" class="include-card" checked>
+            Include media
+          </label>
+        </div>
+      </div>
+    </div>
+  </form>
+  <div class="embed-preview">
+    <h3>Preview</h3>
+  </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="login-dialog" class="LoginDialog modal-container u-textCenter">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-large draggable">
+    <div class="LoginDialog-content modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Log in to Twitter</h3>
+      </div>
+      <div class="LoginDialog-body modal-body">
+        <div class="LoginDialog-bird">
+          <span class="Icon Icon--bird Icon--large"></span>
+        </div>
+        <div class="LoginDialog-form">
+<form action="https://twitter.com/sessions" class="LoginForm js-front-signin" method="post"
+  data-component="dialog"
+  data-element="login"
+>
+  <div class="LoginForm-input LoginForm-username">
+    <input
+      type="text"
+      class="text-input email-input js-signin-email"
+      name="session[username_or_email]"
+      autocomplete="username"
+      placeholder="Phone, email or username"
+    />
+  </div>
+
+  <div class="LoginForm-input LoginForm-password">
+    <input type="password" class="text-input" name="session[password]" placeholder="Password" autocomplete="current-password">
+  </div>
+
+  <div class="LoginForm-rememberForgot">
+    <label>
+      <input type="checkbox" value="1" name="remember_me" checked="checked">
+      <span>Remember me</span>
+    </label>
+    <span class="separator">&middot;</span>
+    <a class="forgot" href="/account/begin_password_reset">Forgot password?</a>
+  </div>
+
+  <input type="submit" class="submit btn primary-btn js-submit" value="Log in">
+
+    <input type="hidden" name="return_to_ssl" value="true">
+
+  <input type="hidden" name="scribe_log">
+  <input type="hidden" name="redirect_after_login" value="/dubaihotties/status/465891662452256768">
+  <input type="hidden" value="bf22c63b6fbbdaac52796f677afcad88be230ce2" name="authenticity_token">
+      <input type="hidden" name="ui_metrics" autocomplete="off">
+      <script src="/i/js_inst?c_name=ui_metrics" async></script>
+</form>
+        </div>
+      </div>
+      <div class="LoginDialog-footer modal-footer u-textCenter">
+        Don't have an account? <a class="LoginDialog-signupLink" href="https://twitter.com/signup">Sign up &raquo;</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="signup-dialog" class="SignupDialog modal-container u-textCenter">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-large draggable">
+    <div class="SignupDialog-content modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Sign up for Twitter</h3>
+      </div>
+      <div class="SignupDialog-body modal-body">
+        <div class="SignupDialog-icon">
+          <span class="Icon Icon--bird Icon--extraLarge"></span>
+        </div>
+        <h2 class="SignupDialog-heading">Not on Twitter? Sign up, tune into the things you care about, and get updates as they happen.</h2>
+        <div class="SignupDialog-form">
+  <div class="signup SignupForm
+    ">
+    <a href="https://twitter.com/signup" role="button" class="SignupForm-submit u-block u-textCenter js-signup btn primary-btn"
+    data-component="dialog"
+    data-element="signup"
+    >Sign up</a>
+  </div>
+        </div>
+      </div>
+      <div class="SignupDialog-footer modal-footer u-textCenter">
+        Have an account? <a class="SignupDialog-signinLink" href="/login">Log in &raquo;</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="sms-codes-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Two-way (sending and receiving) short codes:</h3>
+      </div>
+      <div class="modal-body">
+
+<table id="sms_codes" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Country</th>
+      <th>Code</th>
+      <th>For customers of</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>United States</td>
+      <td>40404</td>
+      <td>(any)</td>
+    </tr>
+    <tr>
+      <td>Canada</td>
+      <td>21212</td>
+      <td>(any)</td>
+    </tr>
+    <tr>
+      <td>United Kingdom</td>
+      <td>86444</td>
+      <td>Vodafone, Orange, 3, O2</td>
+    </tr>
+    <tr>
+      <td>Brazil</td>
+      <td>40404</td>
+      <td>Nextel, TIM</td>
+    </tr>
+    <tr>
+      <td>Haiti</td>
+      <td>40404</td>
+      <td>Digicel, Voila</td>
+    </tr>
+    <tr>
+      <td>Ireland</td>
+      <td>51210</td>
+      <td>Vodafone, O2</td>
+    </tr>
+    <tr>
+      <td>India</td>
+      <td>53000</td>
+      <td>Bharti Airtel, Videocon, Reliance</td>
+    </tr>
+    <tr>
+      <td>Indonesia</td>
+      <td>89887</td>
+      <td>AXIS, 3, Telkomsel, Indosat, XL Axiata</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Italy</td>
+      <td>4880804</td>
+      <td>Wind</td>
+    </tr>
+    <tr>
+      <td>3424486444</td>
+      <td>Vodafone</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="3">
+        &raquo; <a class="js-initial-focus" target="_blank" href="http://support.twitter.com/articles/14226-how-to-find-your-twitter-short-code-or-long-code">See SMS short codes for other countries</a>
+      </td>
+    </tr>
+  </tfoot>
+</table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="leadgen-confirm-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Confirmation</h3>
+      </div>
+      <div class="modal-body">
+        <div class="leadgen-card-container">
+          <div class="media">
+            <iframe
+              class="cards2-promotion-iframe"
+              scrolling="no"
+              frameborder="0"
+              src="">
+            </iframe>
+          </div>
+        </div>
+        <div class="js-macaw-cards-iframe-container" data-card-name="promotion">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="auth-webview-dialog" class="AuthWebViewDialog modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--large">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">&nbsp;</h3>
+      </div>
+      <div class="modal-body">
+        <div class="auth-webview-view-container">
+          <div class="media">
+            <iframe
+              class="auth-webview-card-iframe js-initial-focus"
+              scrolling="no"
+              frameborder="0"
+              width="590px"
+              height="500px"
+              src="">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="promptbird-modal-prompt" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal">
+
+    <button type="button" class="modal-btn js-promptDismiss modal-close js-close">
+      <span class="Icon Icon--close Icon--medium">
+        <span class="visuallyhidden">Close</span>
+      </span>
+    </button>
+    <div class="modal-content"></div>
+  </div>
+</div>
+
+  <div id="buy-now-dialog" class="BuyNowDialog modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--large">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Buy Now</h3>
+      </div>
+      <div class="modal-body">
+        <div class="buy-now-view-container">
+          <div class="media">
+            <iframe
+              class="buy-now-card-iframe js-initial-focus"
+              scrolling="no"
+              frameborder="0"
+              width="590px"
+              height="400px"
+              src="">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+   <div id="payment-order-detail-dialog" class="PaymentOrderDialog modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--large">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Buy Now</h3>
+      </div>
+      <div class="modal-body">
+        <div class="alert">
+          <h4>Hmm... Something went wrong. Please try again.</h4>
+        </div>
+        <div class="spinner-bigger"></div>
+        <div class="PaymentOrderDialog-orderDetails"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="create-custom-timeline-dialog" class="modal-container"></div>
+<div id="edit-custom-timeline-dialog" class="modal-container"></div>
+<div id="curate-dialog" class="modal-container"></div>
+<div id="media-edit-dialog" class="modal-container"></div>
+
+      <div class="PermalinkOverlay PermalinkOverlay-with-background load-at-boot" id="permalink-overlay">
+  <button class="PermalinkOverlay-next PermalinkOverlay-button u-posFixed js-next" type="button">
+    <span class="Icon Icon--caretLeft Icon--large"></span>
+    <span class="u-hiddenVisually">Next Tweet from user</span>
+  </button>
+  <div class="PermalinkOverlay-modal">
+    <div class="PermalinkOverlay-spinnerContainer u-hidden">
+      <div class="PermalinkOverlay-spinner"></div>
+    </div>
+    <div class="PermalinkOverlay-content">
+      <div class="PermalinkOverlay-body"
+          data-background-path="/DubaiHotties"
+>
+            <div class="permalink-container permalink-container--withArrows">
+  <div class="PermalinkProfile-dismiss">
+    <span class="Icon Icon--close Icon--large"></span>
+  </div>
+
+  <div role="main" class="permalink light-inline-actions  stream-uncapped has-replies original-permalink-page">
+
+<div class="TweetArrows">
+    <a href="/DubaiHotties/status/718090983255240708" class="TweetArrow-previous js-nav">
+      <span class="visuallyhidden">Previous Tweet</span>
+      <span class="Icon Icon--caretLeft"></span>
+    </a>
+</div>
+
+  <div class="permalink-inner permalink-tweet-container">
+
+    <div class="tweet permalink-tweet js-actionable-user js-actionable-tweet js-original-tweet
+         has-cards with-social-proof  has-content
+
+          js-initial-focus
+"
+        data-associated-tweet-id="465891662452256768"
+
+data-tweet-id="465891662452256768"
+data-item-id="465891662452256768"
+data-permalink-path="/DubaiHotties/status/465891662452256768"
+
+  data-screen-name="DubaiHotties" data-name="Dubai Escorts" data-user-id="151010192"
+  data-you-follow="false"
+  data-follows-you="false"
+  data-you-block="false"
+
+data-disclosure-type=""
+
+ data-has-cards="true"
+
+        tabindex="0"
+      >
+
+        <div class="content clearfix">
+          <div class="permalink-header">
+
+    <div class="follow-bar">
+      <div class="user-actions btn-group not-following  " data-user-id="151010192"
+    data-screen-name="DubaiHotties" data-name="Dubai Escorts" data-protected="false">
+
+  <button class="user-actions-follow-button js-follow-btn follow-button btn" type="button">
+  <span class="button-text follow-text">
+     <span class="Icon Icon--follow"></span> Follow 
+
+  </span>
+  <span class="button-text following-text">
+     Following 
+
+  </span>
+  <span class="button-text unfollow-text">
+     Unfollow 
+
+  </span>
+  <span class="button-text blocked-text">Blocked</span>
+  <span class="button-text unblock-text">Unblock</span>
+  <span class="button-text pending-text">Pending</span>
+  <span class="button-text cancel-text">Cancel</span>
+</button>
+
+</div>
+
+    </div>
+
+              <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/DubaiHotties" data-user-id="151010192">
+    <img class="avatar js-action-profile-avatar" src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/11/66CB4D4981A32731A87D65B3EB42C1FE784AD682C8C217DCA9D8F215E9493B40URLDELMaHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyMDUwNjY1MTcvaGVhcnRfYmlnZ2Vy" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Dubai Escorts</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>DubaiHotties</b></span>
+
+  </a>
+
+            <small class="time">
+  <a href="/DubaiHotties/status/465891662452256768" class="tweet-timestamp js-permalink js-nav js-tooltip" title="9:30 AM - 12 May 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1399912202" data-time-ms="1399912202000" data-long-form="true">12 May 2014</span></a>
+</small>
+
+          </div>
+        </div>
+
+        <div class="js-tweet-text-container">
+  <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en" data-aria-label-part="0">Lora 
+<a href="http://t.co/GIpnGMINJ0" rel="nofollow" dir="ltr" data-expanded-url="http://www.dxb.pe/1058" class="twitter-timeline-link" target="_blank" title="http://www.dxb.pe/1058" ><span class="tco-ellipsis"></span><span class="invisible">http://www.</span><span class="js-display-url">dxb.pe/1058</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a>
++79817898899
+Lora is a beautiful and amazing young Russian girl. 1st time in Dubai. For<a href="http://t.co/Q14l3z3M1f" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/Q14l3z3M1f</a></p>
+</div>
+
+          <div class="AdaptiveMedia
+
+      is-square
+
+      "
+    >
+    <div class="AdaptiveMedia-container
+        js-adaptive-media-container
+        "
+      >
+        <div class="AdaptiveMedia-singlePhoto">
+    <div class="AdaptiveMedia-photoContainer js-adaptive-photo "
+  data-image-url="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_8/5/C0B66E5772D0FF3624C8B8ADB25BFEA35C7C42D67EE78E11295BBC506D6452ECURLDELMaHR0cHM6Ly9wYnMudHdpbWcuY29tL21lZGlhL0JuY3RfNXhJVUFBNEFfZi5qcGc="
+
+  data-element-context="platform_photo_card">
+  <img data-aria-label-part src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_8/5/C0B66E5772D0FF3624C8B8ADB25BFEA35C7C42D67EE78E11295BBC506D6452ECURLDELMaHR0cHM6Ly9wYnMudHdpbWcuY29tL21lZGlhL0JuY3RfNXhJVUFBNEFfZi5qcGc=" alt=""
+>
+</div>
+
+</div>
+
+    </div>
+  </div>
+
+      <div class="js-tweet-details-fixer tweet-details-fixer">
+
+  <div class="js-machine-translated-tweet-container"></div>
+  <div class="js-tweet-stats-container tweet-stats-container">      
+
+<ul class="stats" aria-label="Retweeted and favorited by">
+
+    <li class="js-stat-count js-stat-favorites stat-count" aria-hidden="true">
+      <a tabindex=0 role="button"
+         data-tweet-stat-count="1" 
+         data-compact-localized-count="1"
+         class="request-favorited-popup"
+         data-activity-popup-title="1 like">
+          Like <strong>1</strong>
+
+      </a>
+    </li>
+
+  <li class="avatar-row js-face-pile-container">
+      <a class="js-profile-popup-actionable js-tooltip" href="/ThatLonelyWolf" data-user-id="588622900" original-title="The Wolf" title="The Wolf">
+  <img class="avatar size24 js-user-profile-link" src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_8/5/C0B66E5772D0FF3624C8B8ADB25BFEA35C7C42D67EE78E11295BBC506D6452ECURLDELMaHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzIyNDg3NjUzOTUvaW1hZ2VzX25vcm1hbC5qcGc=" alt="The Wolf">
+</a>
+  </li>
+</ul>
+
+  </div>
+
+  <div class="client-and-actions">
+  <span class="metadata">
+    <span>9:30 AM - 12 May 2014</span>
+  </span>
+</div>
+
+</div>
+
+      <div class="stream-item-footer">
+
+              <div class="ProfileTweet-actionCountList u-hiddenVisually">
+
+    <span class="ProfileTweet-action--reply u-hiddenVisually"></span>
+    <span class="ProfileTweet-action--retweet u-hiddenVisually">
+
+      <span class="ProfileTweet-actionCount" aria-hidden="true" data-tweet-stat-count="0">
+        <span class="ProfileTweet-actionCountForAria" >0 retweets</span>
+      </span>
+    </span>
+    <span class="ProfileTweet-action--favorite u-hiddenVisually">
+      <span class="ProfileTweet-actionCount"  data-tweet-stat-count="1">
+        <span class="ProfileTweet-actionCountForAria" data-aria-label-part>1 like</span>
+      </span>
+    </span>
+  </div>
+
+    <div class="ProfileTweet-actionList js-actions" role="group" aria-label="Tweet actions">
+        <div class="ProfileTweet-action ProfileTweet-action--reply">
+  <button class="ProfileTweet-actionButton u-textUserColorHover js-actionButton js-actionReply"
+    data-modal="ProfileTweet-reply"
+    type="button">
+    <div class="IconContainer js-tooltip" title="Reply">
+      <span class="Icon Icon--reply"></span>
+      <span class="u-hiddenVisually">Reply</span>
+    </div>
+  </button>
+</div>
+        <div class="ProfileTweet-action ProfileTweet-action--retweet js-toggleState js-toggleRt">
+  <button class="ProfileTweet-actionButton  js-actionButton js-actionRetweet"
+
+    data-modal="ProfileTweet-retweet"
+    type="button">
+    <div class="IconContainer js-tooltip" title="Retweet">
+      <span class="Icon Icon--retweet"></span>
+      <span class="u-hiddenVisually">Retweet</span>
+    </div>
+      <div class="IconTextContainer">
+        <span class="ProfileTweet-actionCount ProfileTweet-actionCount--isZero">
+          <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true"></span>
+        </span>
+      </div>
+  </button><button class="ProfileTweet-actionButtonUndo js-actionButton js-actionRetweet" data-modal="ProfileTweet-retweet" type="button">
+    <div class="IconContainer js-tooltip" title="Undo retweet">
+      <span class="Icon Icon--retweet"></span>
+      <span class="u-hiddenVisually">Retweeted</span>
+    </div>
+      <div class="IconTextContainer">
+        <span class="ProfileTweet-actionCount ProfileTweet-actionCount--isZero">
+          <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true"></span>
+        </span>
+      </div>
+  </button>
+</div>
+
+      <div class="ProfileTweet-action ProfileTweet-action--favorite js-toggleState">
+  <button class="ProfileTweet-actionButton js-actionButton js-actionFavorite" type="button">
+    <div class="IconContainer js-tooltip" title="Like">
+      <div class="HeartAnimationContainer">
+        <div class="HeartAnimation"></div>
+      </div>
+      <span class="u-hiddenVisually">Like</span>
+    </div>
+      <div class="IconTextContainer">
+        <span class="ProfileTweet-actionCount">
+          <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">1</span>
+        </span>
+      </div>
+  </button><button class="ProfileTweet-actionButtonUndo u-linkClean js-actionButton js-actionFavorite" type="button">
+    <div class="IconContainer js-tooltip" title="Undo like">
+      <div class="HeartAnimationContainer">
+        <div class="HeartAnimation"></div>
+      </div>
+      <span class="u-hiddenVisually">Liked</span>
+    </div>
+      <div class="IconTextContainer">
+        <span class="ProfileTweet-actionCount">
+          <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">1</span>
+        </span>
+      </div>
+  </button>
+</div>
+
+        <div class="ProfileTweet-action ProfileTweet-action--more js-more-ProfileTweet-actions">
+    <div class="dropdown">
+  <button class="ProfileTweet-actionButton u-textUserColorHover dropdown-toggle js-dropdown-toggle" type="button">
+      <div class="IconContainer js-tooltip" title="More">
+        <span class="Icon Icon--dots"></span>
+        <span class="u-hiddenVisually">More</span>
+      </div>
+  </button>
+  <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+
+      <li class="copy-link-to-tweet js-actionCopyLinkToTweet">
+        <button type="button" class="dropdown-link">Copy link to Tweet</button>
+      </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+  </ul>
+</div>
+
+</div>
+
+  </div>
+
+    </div>
+
+      </div>
+
+      <div class="permalink-footer">
+
+      </div>
+    </div>
+
+  </div>
+
+<div class="replies-to  permalink-inner permalink-replies" data-component-context="replies">
+    <div class="tweets-wrapper">
+      <div id="descendants" class="ThreadedDescendants">
+          <div class="stream-container  "
+    data-max-position="" data-min-position=""
+    >
+
+    <div class="stream">
+        <ol class="stream-items js-navigable-stream" id="stream-items-id">
+
+      <div class="ThreadedConversation--loneTweet">
+        <li class="js-stream-item stream-item stream-item
+" data-item-id="510320045936115712" id="stream-item-tweet-510320045936115712" data-item-type="tweet">
+
+  <div class="tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable
+
+       descendant permalink-descendant-tweet
+"
+
+data-tweet-id="510320045936115712"
+data-item-id="510320045936115712"
+data-permalink-path="/TooletXoxo/status/510320045936115712"
+
+ data-has-parent-tweet="true" 
+
+  data-screen-name="TooletXoxo" data-name="xOxO" data-user-id="2360322312"
+  data-you-follow="false"
+  data-follows-you="false"
+  data-you-block="false"
+ data-mentions="DubaiHotties"
+
+data-disclosure-type=""
+
+ data-component-context="replies"
+
+    >
+
+    <div class="context">
+
+    </div>
+
+    <div class="content">
+
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/TooletXoxo" data-user-id="2360322312">
+    <img class="avatar js-action-profile-avatar" src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_8/5/C0B66E5772D0FF3624C8B8ADB25BFEA35C7C42D67EE78E11295BBC506D6452ECURLDELMaHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ4MTM5OTcyMTA3Njg3NTI2NC9CbHJlRzBPWV9iaWdnZXIuanBlZw==" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>xOxO</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>TooletXoxo</b></span>
+
+  </a>
+
+        <small class="time">
+  <a href="/TooletXoxo/status/510320045936115712" class="tweet-timestamp js-permalink js-nav js-tooltip" title="11:52 PM - 11 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1410504754" data-time-ms="1410504754000" data-long-form="true">11 Sep 2014</span></a>
+</small>
+
+      </div>
+
+        <div class="js-tweet-text-container">
+  <p class="TweetTextSize  js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/DubaiHotties" class="twitter-atreply pretty-link js-nav" dir="ltr" data-mentioned-user-id="151010192" ><s>@</s><b>DubaiHotties</b></a> how much is the price n for how many hour</p>
+</div>
+
+      <div class="stream-item-footer">
+
+        <div class="ProfileTweet-actionCountList u-hiddenVisually">
+
+    <span class="ProfileTweet-action--reply u-hiddenVisually"></span>
+    <span class="ProfileTweet-action--retweet u-hiddenVisually">
+
+      <span class="ProfileTweet-actionCount" aria-hidden="true" data-tweet-stat-count="0">
+        <span class="ProfileTweet-actionCountForAria" >0 retweets</span>
+      </span>
+    </span>
+    <span class="ProfileTweet-action--favorite u-hiddenVisually">
+      <span class="ProfileTweet-actionCount" aria-hidden="true" data-tweet-stat-count="0">
+        <span class="ProfileTweet-actionCountForAria" >0 likes</span>
+      </span>
+    </span>
+  </div>
+
+    <div class="ProfileTweet-actionList js-actions" role="group" aria-label="Tweet actions">
+        <div class="ProfileTweet-action ProfileTweet-action--reply">
+  <button class="ProfileTweet-actionButton u-textUserColorHover js-actionButton js-actionReply"
+    data-modal="ProfileTweet-reply"
+    type="button">
+    <div class="IconContainer js-tooltip" title="Reply">
+      <span class="Icon Icon--reply"></span>
+      <span class="u-hiddenVisually">Reply</span>
+    </div>
+  </button>
+</div>
+        <div class="ProfileTweet-action ProfileTweet-action--retweet js-toggleState js-toggleRt">
+  <button class="ProfileTweet-actionButton  js-actionButton js-actionRetweet"
+
+    data-modal="ProfileTweet-retweet"
+    type="button">
+    <div class="IconContainer js-tooltip" title="Retweet">
+      <span class="Icon Icon--retweet"></span>
+      <span class="u-hiddenVisually">Retweet</span>
+    </div>
+      <div class="IconTextContainer">
+        <span class="ProfileTweet-actionCount ProfileTweet-actionCount--isZero">
+          <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true"></span>
+        </span>
+      </div>
+  </button><button class="ProfileTweet-actionButtonUndo js-actionButton js-actionRetweet" data-modal="ProfileTweet-retweet" type="button">
+    <div class="IconContainer js-tooltip" title="Undo retweet">
+      <span class="Icon Icon--retweet"></span>
+      <span class="u-hiddenVisually">Retweeted</span>
+    </div>
+      <div class="IconTextContainer">
+        <span class="ProfileTweet-actionCount ProfileTweet-actionCount--isZero">
+          <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true"></span>
+        </span>
+      </div>
+  </button>
+</div>
+
+      <div class="ProfileTweet-action ProfileTweet-action--favorite js-toggleState">
+  <button class="ProfileTweet-actionButton js-actionButton js-actionFavorite" type="button">
+    <div class="IconContainer js-tooltip" title="Like">
+      <div class="HeartAnimationContainer">
+        <div class="HeartAnimation"></div>
+      </div>
+      <span class="u-hiddenVisually">Like</span>
+    </div>
+      <div class="IconTextContainer">
+        <span class="ProfileTweet-actionCount ProfileTweet-actionCount--isZero">
+          <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true"></span>
+        </span>
+      </div>
+  </button><button class="ProfileTweet-actionButtonUndo u-linkClean js-actionButton js-actionFavorite" type="button">
+    <div class="IconContainer js-tooltip" title="Undo like">
+      <div class="HeartAnimationContainer">
+        <div class="HeartAnimation"></div>
+      </div>
+      <span class="u-hiddenVisually">Liked</span>
+    </div>
+      <div class="IconTextContainer">
+        <span class="ProfileTweet-actionCount ProfileTweet-actionCount--isZero">
+          <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true"></span>
+        </span>
+      </div>
+  </button>
+</div>
+
+        <div class="ProfileTweet-action ProfileTweet-action--more js-more-ProfileTweet-actions">
+    <div class="dropdown">
+  <button class="ProfileTweet-actionButton u-textUserColorHover dropdown-toggle js-dropdown-toggle" type="button">
+      <div class="IconContainer js-tooltip" title="More">
+        <span class="Icon Icon--dots"></span>
+        <span class="u-hiddenVisually">More</span>
+      </div>
+  </button>
+  <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+
+      <li class="copy-link-to-tweet js-actionCopyLinkToTweet">
+        <button type="button" class="dropdown-link">Copy link to Tweet</button>
+      </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+  </ul>
+</div>
+
+</div>
+
+  </div>
+
+    </div>
+
+</div>
+
+    </div>
+  </div>
+
+</li>
+
+      </div>
+
+        </ol>
+        <div class="stream-footer ">
+  <div class='timeline-end has-items '>
+    <div class="stream-end">
+  <div class="stream-end-inner">
+      <span class="Icon Icon--large Icon--logo"></span>
+
+    <p class="empty-text">
+
+    </p>
+
+          <p><button type='button' class='btn-link back-to-top hidden'>Back to top &uarr;</button></p>
+
+  </div>
+</div>
+
+    <div class="stream-loading">
+  <div class="stream-end-inner">
+    <span class="spinner" title="Loading..."></span>
+  </div>
+</div>
+
+  </div>
+</div>
+<div class="stream-fail-container">
+    <div class="js-stream-whale-end stream-whale-end stream-placeholder centered-placeholder">
+  <div class="stream-end-inner">
+    <h2 class="title">Loading seems to be taking a while.</h2>
+    <p>
+      Twitter may be over capacity or experiencing a momentary hiccup. <a role="button" href="#" class="try-again-after-whale">Try again</a> or visit <a target="_blank" href="http://status.twitter.com">Twitter Status</a> for more information.
+    </p>
+  </div>
+</div>
+</div>
+
+      <ol class="hidden-replies-container"></ol>
+    </div>
+  </div>
+
+      </div>
+    </div>
+</div>
+
+  </div>
+
+  <div class="stream-container suggested-tweet-stream-container dismissible-container u-hidden">
+    <div class="stream suggested-tweet-stream permalink-replies">
+      <h3 class="promoted-heading">Promoted Tweet</h3>
+      <ol class="stream-items suggested-tweet-stream-items js-navigable-stream" id="suggested-stream-items-id">
+
+      </ol>
+    </div>
    </div>
 
- 
-     </div><!-- .model-right -->
+    <div class="Trends module trends hidden
+            Trends--wide
+            ">
+  <div class="trends-inner">
+    <div class="flex-module trends-container ">
+  <div class="flex-module-header">
 
-   </div><!-- .model-content -->
-   <div class="catalog-grid model-similar clearfix">
-
-    <div class="catalog-grid model-similar clearfix">
- <h4 class="part-content-heading">Similar</h4>
- 
-  <a href="http://elleescortsistanbul.com/models/elva-escort" class="girl-block">
-   <span class="girl-block-ribbon"><span>NEW</span></span>
-   <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_6/9/1FD694C97388CFFE4C5A6B716CE9F121869EB24CA650BB3F889031FFDBA6E3E9URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9jaGFybG90dGVfc3Rva2VseV9pbl93aGl0ZV8wMDItMTY1eDI1MC5qcGc=);">
-    <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_6/9/1FD694C97388CFFE4C5A6B716CE9F121869EB24CA650BB3F889031FFDBA6E3E9URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9jaGFybG90dGVfc3Rva2VseV9pbl93aGl0ZV8wMDItMTY1eDI1MC5qcGc=" width="165" height="250"  alt="" />
-   </span>
-   <span class="girl-block-info">
-    <span class="girl-block-name">Elva Escort</span>
-   </span>
-   <span class="girl-block-bottom clearfix">
-    <span class="girl-block-age">Age: 24</span>
-    <span class="girl-block-country">Ukraine</span>
-   </span>
-   <span class="girl-block-footer">25.03.2015</span>
-  </a>
- 
-  <a href="http://elleescortsistanbul.com/models/irina-vip" class="girl-block">
-   <span class="girl-block-ribbon"><span>NEW</span></span>
-   <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_2/part_2_8/9/1DF62339C282DDD0E6A59E9CE1AC14F0E61063A8E6171C3375A0CD9AACBE103AURLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy81SXJpbmEtMTY1eDI1MC5qcGc=);">
-    <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_2/part_2_8/9/1DF62339C282DDD0E6A59E9CE1AC14F0E61063A8E6171C3375A0CD9AACBE103AURLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy81SXJpbmEtMTY1eDI1MC5qcGc=" width="165" height="250"  alt="" />
-   </span>
-   <span class="girl-block-info">
-    <span class="girl-block-name">Irina VIP</span>
-   </span>
-   <span class="girl-block-bottom clearfix">
-    <span class="girl-block-age">Age: 20</span>
-    <span class="girl-block-country">Ukraine</span>
-   </span>
-   <span class="girl-block-footer">25.03.2015</span>
-  </a>
- 
-  <a href="http://elleescortsistanbul.com/models/marina-vip-escort" class="girl-block">
-   <span class="girl-block-ribbon"><span>NEW</span></span>
-   <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_6/part_6_5/10/3938D3EAB9C0D2003B32BC4F53F7A7C398B83CAD5E1D61ECFA9C798435B1BE18URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9hNGVjMzMxMTI1Njc1MDYzODI0YzNjMDZhYzgzNWI4OC0xNjV4MjUwLmpwZw==);">
-    <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_6/part_6_5/10/3938D3EAB9C0D2003B32BC4F53F7A7C398B83CAD5E1D61ECFA9C798435B1BE18URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9hNGVjMzMxMTI1Njc1MDYzODI0YzNjMDZhYzgzNWI4OC0xNjV4MjUwLmpwZw==" width="165" height="250"  alt="" />
-   </span>
-   <span class="girl-block-info">
-    <span class="girl-block-name">Marina VIP Escort</span>
-   </span>
-   <span class="girl-block-bottom clearfix">
-    <span class="girl-block-age">Age: 23</span>
-    <span class="girl-block-country">Ukraine</span>
-   </span>
-   <span class="girl-block-footer">25.03.2015</span>
-  </a>
- 
-  <a href="http://elleescortsistanbul.com/models/kristina-vip" class="girl-block">
-   <span class="girl-block-ribbon"><span>NEW</span></span>
-   <span class="girl-block-photo" style="background-image:url(http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9rcmlzdGluZV9zaW1tb25zXy1fcGxheWJveV9jeWJlcmdpcmxfMDA5LTE2NXgyNTAuanBn);">
-    <img src="http://cs-sys-1.uis.georgetown.edu/~jw1498/image37/part_1/part_1_2/9/7E35CFCAD7BB6EAE7AF3701F559F5CD4AE35A606827BC960CE3457D64ABE1538URLDELML2ltYWdlcy9zaXplZC9pbWFnZXMvdXBsb2Fkcy9rcmlzdGluZV9zaW1tb25zXy1fcGxheWJveV9jeWJlcmdpcmxfMDA5LTE2NXgyNTAuanBn" width="165" height="250"  alt="" />
-   </span>
-   <span class="girl-block-info">
-    <span class="girl-block-name">Kristina VIP</span>
-   </span>
-   <span class="girl-block-bottom clearfix">
-    <span class="girl-block-age">Age: 23</span>
-    <span class="girl-block-country">BYELORUSSIA</span>
-   </span>
-   <span class="girl-block-footer">02.04.2015</span>
-  </a>
- 
-</div><!-- .catalog-grid.model-similar -->
-
-   </div><!-- .main-right -->
+    <h3><span class="trend-location js-trend-location">false</span></h3>
   </div>
- </section><!-- .main -->
+  <div class="flex-module-inner">
+    <ul class="trend-items js-trends">
+    </ul>
+  </div>
+</div>
+  </div>
+</div>
 
-	
+  <div class="permalink-footer">
+      <div class="Footer module roaming-module
+            Footer--slim
+            ">
+  <div class="flex-module">
+    <div class="flex-module-inner js-items-container">
+      <ul class="u-cf">
+        <li class="Footer-item Footer-copyright copyright">&copy; 2016 Twitter</li>
+        <li class="Footer-item"><a class="Footer-link" href="/about">About</a></li>
+        <li class="Footer-item"><a class="Footer-link" href="//support.twitter.com">Help</a></li>
+        <li class="Footer-item"><a class="Footer-link" href="/tos">Terms</a></li>
+        <li class="Footer-item"><a class="Footer-link" href="/privacy">Privacy</a></li>
+        <li class="Footer-item"><a class="Footer-link" href="//support.twitter.com/articles/20170514">Cookies</a></li>
+        <li class="Footer-item"><a class="Footer-link" href="//support.twitter.com/articles/20170451">Ads info</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-        <footer>
-            <div class="wrap">
-                <a href="/" class="footer-logo"></a>
-                <nav class="footer-nav">
-                    <ul>
-                        <li><a href="/main/">Home</a></li>
-                        <li><a href="/models">Girls</a></li>
-                        <li><a href="/booking">Booking</a></li>
-                        <li><a href="/contacts">Contacts</a></li>
-                    </ul>
-                </nav>
-                <div class="footer-phone"><span>Call or SMS</span><strong>+90539 773 1367</strong></div>
-            </div>
-        </footer>
-            <div class="partners" style="background: #2f2f2f;">
-                <div class="wrap">
-			<div style="margin: 0px auto; width: 468px;font-size:12px;color: #4b4b4b;">
-			<span>
-				New Ukrainian models <a href="http://turkeyescortgirls.com/" title="istanbul escort" target="_blank" style="color: #4b4b4b;">istanbul escort</a> at one the best Turkey escort girls agency.
-			</span>
-			</div>
-		</div>
-	    </div>
+  </div>
+</div>
 
-        
+      </div>
+    </div>
+  </div>
+</div>
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+    <div class="hidden" id="hidden-content">
+  <iframe aria-hidden="true" class="tweet-post-iframe" name="tweet-post-iframe"></iframe>
+  <iframe aria-hidden="true" class="dm-post-iframe" name="dm-post-iframe"></iframe>
 
-        <script src="/js/vendor/libs.js"></script>
-        <script src="/js/main.js"></script>
-    </body>
-</html></raw_content>
+</div>
+
+    <div id="spoonbill-outer"></div>
+  </body>
+</html>
+</raw_content>
+<url>https://twitter.com/dubaihotties/status/465891662452256768</url>
+<name>name: Lora</name>
+<age>age: 12</age>
+<location>location: Canada,United Kingdom,Dubai,Italy,India,United States,UAE,Brazil</location>
+<phone>phone: 79817898899,3424486444</phone>
+<email>email: NULL</email>
+<ethnicity>ethnicity: Canada,Brazil,Italy,Indonesia,India,Ireland,Russian,Haiti</ethnicity>
+<height>height: NULL</height>
+<weight>weight: NULL</weight>
+<hair_color>hair_color: NULL</hair_color>
+<eye_color>eye_color: NULL</eye_color>
 </BODY>
 </HTML>
+<DOCNO>C0B66E5772D0FF3624C8B8ADB25BFEA35C7C42D67EE78E11295BBC506D6452EC</DOCNO>
 </DOC>
